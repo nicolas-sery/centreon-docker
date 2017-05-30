@@ -1,0 +1,11 @@
+Centreon Broker 3.0.7 log file opened
+[1495612012] config:  log applier: applying 1 logging objects
+[1495612012] config:  module applier: loading directory '/usr/share/centreon/lib/centreon-broker'
+[1495612012] error:   TCP: could not connect to localhost:5669: Connection refused
+Centreon Broker 3.0.7 log file closed
+Centreon Broker 3.0.7 log file opened
+[1495612064] config:  log applier: applying 1 logging objects
+[1495612064] config:  module applier: loading directory '/usr/share/centreon/lib/centreon-broker'
+Centreon Broker 3.0.7 log file opened
+[1495613996] config:  log applier: applying 1 logging objects
+[1495613996] config:  module applier: loading directory '/usr/share/centreon/lib/centreon-broker'

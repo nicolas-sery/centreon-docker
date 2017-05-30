@@ -1,0 +1,27 @@
+graph automap {
+    graph [dpi="72", margin=0.6944, root="a056eb", rankdir="TB", center=true, nodesep="0", ranksep="0.8", size="6.9444,4.1667!" ];
+    node [shape="rect", labelloc="b", color="red", image="/usr/share/nagvis/share/userfiles/images/iconsets/std_medium_ok.png", fontsize=10];
+    "a056eb" [ label="Monitoring", URL="a056eb", tooltip="a056eb", pos="3.4722,2.0833", layer="0" ];
+    "160d8d" [ label="muc-srv2", URL="160d8d", tooltip="160d8d", layer="1" ];
+    "6a6c17" [ label="muc-srv1", URL="6a6c17", tooltip="6a6c17", layer="2" ];
+    "160d8d" -- "6a6c17" [ weight=2 ];
+    "42c509" [ label="muc-gw1", URL="42c509", tooltip="42c509", layer="2" ];
+    "104b3c" [ label="ham-gw1", URL="104b3c", tooltip="104b3c", layer="3" ];
+    "204369" [ label="ham-srv1", URL="204369", tooltip="204369", layer="4" ];
+    "104b3c" -- "204369" [ weight=2 ];
+    "863aae" [ label="ham-srv2", URL="863aae", tooltip="863aae", layer="4" ];
+    "104b3c" -- "863aae" [ weight=2 ];
+    "856cad" [ label="ham-printer1", URL="856cad", tooltip="856cad", layer="4" ];
+    "104b3c" -- "856cad" [ weight=2 ];
+    "42c509" -- "104b3c" [ weight=2 ];
+    "b2811d" [ label="cgn-gw1", URL="b2811d", tooltip="b2811d", layer="3" ];
+    "7c1bd4" [ label="cgn-srv1", URL="7c1bd4", tooltip="7c1bd4", layer="4" ];
+    "b2811d" -- "7c1bd4" [ weight=2 ];
+    "236387" [ label="cgn-srv2", URL="236387", tooltip="236387", layer="4" ];
+    "b2811d" -- "236387" [ weight=2 ];
+    "a01eee" [ label="cgn-srv3", URL="a01eee", tooltip="a01eee", layer="4" ];
+    "b2811d" -- "a01eee" [ weight=2 ];
+    "42c509" -- "b2811d" [ weight=2 ];
+    "160d8d" -- "42c509" [ weight=2 ];
+    "a056eb" -- "160d8d" [ weight=2 ];
+}

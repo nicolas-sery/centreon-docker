@@ -1,0 +1,1020 @@
+Centreon Broker 3.0.7 log file opened
+[1495546999] info:    watchdog: starting process 'central-broker'
+[1495546999] info:    watchdog: process 'central-broker' started (PID 238)
+[1495546999] info:    watchdog: starting process 'central-rrd'
+[1495546999] info:    watchdog: process 'central-rrd' started (PID 239)
+[1495547006] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547007] info:    watchdog: starting process 'central-broker'
+[1495547007] info:    watchdog: process 'central-broker' started (PID 329)
+[1495547014] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547015] info:    watchdog: starting process 'central-broker'
+[1495547015] info:    watchdog: process 'central-broker' started (PID 345)
+[1495547022] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547023] info:    watchdog: starting process 'central-broker'
+[1495547023] info:    watchdog: process 'central-broker' started (PID 361)
+[1495547030] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547031] info:    watchdog: starting process 'central-broker'
+[1495547031] info:    watchdog: process 'central-broker' started (PID 377)
+[1495547038] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547039] info:    watchdog: starting process 'central-broker'
+[1495547039] info:    watchdog: process 'central-broker' started (PID 394)
+[1495547046] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547047] info:    watchdog: starting process 'central-broker'
+[1495547047] info:    watchdog: process 'central-broker' started (PID 410)
+[1495547054] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547055] info:    watchdog: starting process 'central-broker'
+[1495547055] info:    watchdog: process 'central-broker' started (PID 426)
+[1495547062] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547063] info:    watchdog: starting process 'central-broker'
+[1495547063] info:    watchdog: process 'central-broker' started (PID 442)
+[1495547070] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547071] info:    watchdog: starting process 'central-broker'
+[1495547071] info:    watchdog: process 'central-broker' started (PID 477)
+[1495547078] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547079] info:    watchdog: starting process 'central-broker'
+[1495547079] info:    watchdog: process 'central-broker' started (PID 495)
+[1495547086] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547087] info:    watchdog: starting process 'central-broker'
+[1495547087] info:    watchdog: process 'central-broker' started (PID 511)
+[1495547094] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547095] info:    watchdog: starting process 'central-broker'
+[1495547095] info:    watchdog: process 'central-broker' started (PID 527)
+[1495547102] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547103] info:    watchdog: starting process 'central-broker'
+[1495547103] info:    watchdog: process 'central-broker' started (PID 543)
+[1495547110] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547111] info:    watchdog: starting process 'central-broker'
+[1495547111] info:    watchdog: process 'central-broker' started (PID 559)
+[1495547118] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547119] info:    watchdog: starting process 'central-broker'
+[1495547119] info:    watchdog: process 'central-broker' started (PID 576)
+[1495547126] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547127] info:    watchdog: starting process 'central-broker'
+[1495547127] info:    watchdog: process 'central-broker' started (PID 592)
+[1495547134] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547135] info:    watchdog: starting process 'central-broker'
+[1495547135] info:    watchdog: process 'central-broker' started (PID 608)
+[1495547142] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547143] info:    watchdog: starting process 'central-broker'
+[1495547143] info:    watchdog: process 'central-broker' started (PID 625)
+[1495547150] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547151] info:    watchdog: starting process 'central-broker'
+[1495547151] info:    watchdog: process 'central-broker' started (PID 642)
+[1495547158] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547159] info:    watchdog: starting process 'central-broker'
+[1495547159] info:    watchdog: process 'central-broker' started (PID 658)
+[1495547166] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547167] info:    watchdog: starting process 'central-broker'
+[1495547167] info:    watchdog: process 'central-broker' started (PID 674)
+[1495547174] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547175] info:    watchdog: starting process 'central-broker'
+[1495547175] info:    watchdog: process 'central-broker' started (PID 690)
+[1495547182] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547183] info:    watchdog: starting process 'central-broker'
+[1495547183] info:    watchdog: process 'central-broker' started (PID 706)
+[1495547190] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547191] info:    watchdog: starting process 'central-broker'
+[1495547191] info:    watchdog: process 'central-broker' started (PID 723)
+[1495547198] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547199] info:    watchdog: starting process 'central-broker'
+[1495547199] info:    watchdog: process 'central-broker' started (PID 739)
+[1495547206] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547207] info:    watchdog: starting process 'central-broker'
+[1495547207] info:    watchdog: process 'central-broker' started (PID 755)
+[1495547214] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547215] info:    watchdog: starting process 'central-broker'
+[1495547215] info:    watchdog: process 'central-broker' started (PID 772)
+[1495547222] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547223] info:    watchdog: starting process 'central-broker'
+[1495547223] info:    watchdog: process 'central-broker' started (PID 788)
+[1495547230] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495547231] info:    watchdog: starting process 'central-broker'
+[1495547231] info:    watchdog: process 'central-broker' started (PID 805)
+Centreon Broker 3.0.7 log file opened
+[1495609606] info:    watchdog: starting process 'central-broker'
+[1495609606] info:    watchdog: process 'central-broker' started (PID 261)
+[1495609606] info:    watchdog: starting process 'central-rrd'
+[1495609606] info:    watchdog: process 'central-rrd' started (PID 262)
+[1495609613] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609614] info:    watchdog: starting process 'central-broker'
+[1495609614] info:    watchdog: process 'central-broker' started (PID 352)
+[1495609621] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609622] info:    watchdog: starting process 'central-broker'
+[1495609622] info:    watchdog: process 'central-broker' started (PID 368)
+[1495609629] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609630] info:    watchdog: starting process 'central-broker'
+[1495609630] info:    watchdog: process 'central-broker' started (PID 402)
+[1495609637] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609638] info:    watchdog: starting process 'central-broker'
+[1495609638] info:    watchdog: process 'central-broker' started (PID 418)
+[1495609645] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609646] info:    watchdog: starting process 'central-broker'
+[1495609646] info:    watchdog: process 'central-broker' started (PID 436)
+[1495609653] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609654] info:    watchdog: starting process 'central-broker'
+[1495609654] info:    watchdog: process 'central-broker' started (PID 452)
+[1495609661] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609662] info:    watchdog: starting process 'central-broker'
+[1495609662] info:    watchdog: process 'central-broker' started (PID 468)
+[1495609669] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609670] info:    watchdog: starting process 'central-broker'
+[1495609670] info:    watchdog: process 'central-broker' started (PID 484)
+[1495609677] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609678] info:    watchdog: starting process 'central-broker'
+[1495609678] info:    watchdog: process 'central-broker' started (PID 501)
+[1495609685] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609686] info:    watchdog: starting process 'central-broker'
+[1495609686] info:    watchdog: process 'central-broker' started (PID 518)
+[1495609693] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609694] info:    watchdog: starting process 'central-broker'
+[1495609694] info:    watchdog: process 'central-broker' started (PID 534)
+[1495609701] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609702] info:    watchdog: starting process 'central-broker'
+[1495609702] info:    watchdog: process 'central-broker' started (PID 550)
+[1495609709] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609710] info:    watchdog: starting process 'central-broker'
+[1495609710] info:    watchdog: process 'central-broker' started (PID 566)
+[1495609717] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609718] info:    watchdog: starting process 'central-broker'
+[1495609718] info:    watchdog: process 'central-broker' started (PID 582)
+[1495609725] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609726] info:    watchdog: starting process 'central-broker'
+[1495609726] info:    watchdog: process 'central-broker' started (PID 599)
+[1495609733] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609734] info:    watchdog: starting process 'central-broker'
+[1495609734] info:    watchdog: process 'central-broker' started (PID 615)
+[1495609741] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609742] info:    watchdog: starting process 'central-broker'
+[1495609742] info:    watchdog: process 'central-broker' started (PID 631)
+[1495609749] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609750] info:    watchdog: starting process 'central-broker'
+[1495609750] info:    watchdog: process 'central-broker' started (PID 648)
+[1495609757] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609758] info:    watchdog: starting process 'central-broker'
+[1495609758] info:    watchdog: process 'central-broker' started (PID 665)
+[1495609765] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609766] info:    watchdog: starting process 'central-broker'
+[1495609766] info:    watchdog: process 'central-broker' started (PID 681)
+[1495609773] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609774] info:    watchdog: starting process 'central-broker'
+[1495609774] info:    watchdog: process 'central-broker' started (PID 697)
+[1495609781] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609782] info:    watchdog: starting process 'central-broker'
+[1495609782] info:    watchdog: process 'central-broker' started (PID 713)
+[1495609789] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609790] info:    watchdog: starting process 'central-broker'
+[1495609790] info:    watchdog: process 'central-broker' started (PID 729)
+[1495609797] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609798] info:    watchdog: starting process 'central-broker'
+[1495609798] info:    watchdog: process 'central-broker' started (PID 746)
+[1495609805] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609806] info:    watchdog: starting process 'central-broker'
+[1495609806] info:    watchdog: process 'central-broker' started (PID 762)
+[1495609813] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609814] info:    watchdog: starting process 'central-broker'
+[1495609814] info:    watchdog: process 'central-broker' started (PID 778)
+[1495609821] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609822] info:    watchdog: starting process 'central-broker'
+[1495609822] info:    watchdog: process 'central-broker' started (PID 795)
+[1495609829] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609830] info:    watchdog: starting process 'central-broker'
+[1495609830] info:    watchdog: process 'central-broker' started (PID 811)
+[1495609837] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609838] info:    watchdog: starting process 'central-broker'
+[1495609838] info:    watchdog: process 'central-broker' started (PID 828)
+[1495609845] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609846] info:    watchdog: starting process 'central-broker'
+[1495609846] info:    watchdog: process 'central-broker' started (PID 844)
+[1495609853] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609854] info:    watchdog: starting process 'central-broker'
+[1495609854] info:    watchdog: process 'central-broker' started (PID 860)
+[1495609861] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609862] info:    watchdog: starting process 'central-broker'
+[1495609862] info:    watchdog: process 'central-broker' started (PID 876)
+[1495609869] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609870] info:    watchdog: starting process 'central-broker'
+[1495609870] info:    watchdog: process 'central-broker' started (PID 893)
+[1495609877] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609878] info:    watchdog: starting process 'central-broker'
+[1495609878] info:    watchdog: process 'central-broker' started (PID 909)
+[1495609885] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609886] info:    watchdog: starting process 'central-broker'
+[1495609886] info:    watchdog: process 'central-broker' started (PID 925)
+[1495609893] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609894] info:    watchdog: starting process 'central-broker'
+[1495609894] info:    watchdog: process 'central-broker' started (PID 942)
+[1495609901] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609902] info:    watchdog: starting process 'central-broker'
+[1495609902] info:    watchdog: process 'central-broker' started (PID 958)
+[1495609909] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609910] info:    watchdog: starting process 'central-broker'
+[1495609910] info:    watchdog: process 'central-broker' started (PID 975)
+[1495609917] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609918] info:    watchdog: starting process 'central-broker'
+[1495609918] info:    watchdog: process 'central-broker' started (PID 991)
+[1495609925] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609926] info:    watchdog: starting process 'central-broker'
+[1495609926] info:    watchdog: process 'central-broker' started (PID 1007)
+[1495609933] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609934] info:    watchdog: starting process 'central-broker'
+[1495609934] info:    watchdog: process 'central-broker' started (PID 1023)
+[1495609941] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609942] info:    watchdog: starting process 'central-broker'
+[1495609942] info:    watchdog: process 'central-broker' started (PID 1039)
+[1495609949] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609950] info:    watchdog: starting process 'central-broker'
+[1495609950] info:    watchdog: process 'central-broker' started (PID 1056)
+[1495609957] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609958] info:    watchdog: starting process 'central-broker'
+[1495609958] info:    watchdog: process 'central-broker' started (PID 1073)
+[1495609965] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609966] info:    watchdog: starting process 'central-broker'
+[1495609966] info:    watchdog: process 'central-broker' started (PID 1089)
+[1495609973] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609974] info:    watchdog: starting process 'central-broker'
+[1495609974] info:    watchdog: process 'central-broker' started (PID 1105)
+[1495609981] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609982] info:    watchdog: starting process 'central-broker'
+[1495609982] info:    watchdog: process 'central-broker' started (PID 1122)
+[1495609989] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609990] info:    watchdog: starting process 'central-broker'
+[1495609990] info:    watchdog: process 'central-broker' started (PID 1138)
+[1495609997] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495609998] info:    watchdog: starting process 'central-broker'
+[1495609998] info:    watchdog: process 'central-broker' started (PID 1154)
+[1495610005] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610006] info:    watchdog: starting process 'central-broker'
+[1495610006] info:    watchdog: process 'central-broker' started (PID 1170)
+[1495610013] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610014] info:    watchdog: starting process 'central-broker'
+[1495610014] info:    watchdog: process 'central-broker' started (PID 1186)
+[1495610021] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610022] info:    watchdog: starting process 'central-broker'
+[1495610022] info:    watchdog: process 'central-broker' started (PID 1203)
+[1495610029] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610030] info:    watchdog: starting process 'central-broker'
+[1495610030] info:    watchdog: process 'central-broker' started (PID 1220)
+[1495610037] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610038] info:    watchdog: starting process 'central-broker'
+[1495610038] info:    watchdog: process 'central-broker' started (PID 1236)
+[1495610045] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610046] info:    watchdog: starting process 'central-broker'
+[1495610046] info:    watchdog: process 'central-broker' started (PID 1252)
+[1495610053] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610054] info:    watchdog: starting process 'central-broker'
+[1495610054] info:    watchdog: process 'central-broker' started (PID 1268)
+[1495610061] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610062] info:    watchdog: starting process 'central-broker'
+[1495610062] info:    watchdog: process 'central-broker' started (PID 1285)
+[1495610069] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610070] info:    watchdog: starting process 'central-broker'
+[1495610070] info:    watchdog: process 'central-broker' started (PID 1301)
+[1495610077] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610078] info:    watchdog: starting process 'central-broker'
+[1495610078] info:    watchdog: process 'central-broker' started (PID 1317)
+[1495610085] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610086] info:    watchdog: starting process 'central-broker'
+[1495610086] info:    watchdog: process 'central-broker' started (PID 1333)
+[1495610093] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610094] info:    watchdog: starting process 'central-broker'
+[1495610094] info:    watchdog: process 'central-broker' started (PID 1350)
+[1495610101] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610102] info:    watchdog: starting process 'central-broker'
+[1495610102] info:    watchdog: process 'central-broker' started (PID 1367)
+[1495610109] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610110] info:    watchdog: starting process 'central-broker'
+[1495610110] info:    watchdog: process 'central-broker' started (PID 1383)
+[1495610117] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610118] info:    watchdog: starting process 'central-broker'
+[1495610118] info:    watchdog: process 'central-broker' started (PID 1399)
+[1495610125] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610126] info:    watchdog: starting process 'central-broker'
+[1495610126] info:    watchdog: process 'central-broker' started (PID 1415)
+[1495610133] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610134] info:    watchdog: starting process 'central-broker'
+[1495610134] info:    watchdog: process 'central-broker' started (PID 1432)
+[1495610141] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610142] info:    watchdog: starting process 'central-broker'
+[1495610142] info:    watchdog: process 'central-broker' started (PID 1448)
+[1495610149] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610150] info:    watchdog: starting process 'central-broker'
+[1495610150] info:    watchdog: process 'central-broker' started (PID 1464)
+[1495610157] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610158] info:    watchdog: starting process 'central-broker'
+[1495610158] info:    watchdog: process 'central-broker' started (PID 1480)
+[1495610165] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610166] info:    watchdog: starting process 'central-broker'
+[1495610166] info:    watchdog: process 'central-broker' started (PID 1496)
+[1495610173] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610174] info:    watchdog: starting process 'central-broker'
+[1495610174] info:    watchdog: process 'central-broker' started (PID 1514)
+[1495610181] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610182] info:    watchdog: starting process 'central-broker'
+[1495610182] info:    watchdog: process 'central-broker' started (PID 1530)
+[1495610189] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610190] info:    watchdog: starting process 'central-broker'
+[1495610190] info:    watchdog: process 'central-broker' started (PID 1546)
+[1495610197] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610198] info:    watchdog: starting process 'central-broker'
+[1495610198] info:    watchdog: process 'central-broker' started (PID 1562)
+[1495610205] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610206] info:    watchdog: starting process 'central-broker'
+[1495610206] info:    watchdog: process 'central-broker' started (PID 1578)
+[1495610213] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610214] info:    watchdog: starting process 'central-broker'
+[1495610214] info:    watchdog: process 'central-broker' started (PID 1595)
+[1495610221] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610222] info:    watchdog: starting process 'central-broker'
+[1495610222] info:    watchdog: process 'central-broker' started (PID 1611)
+[1495610229] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610230] info:    watchdog: starting process 'central-broker'
+[1495610230] info:    watchdog: process 'central-broker' started (PID 1627)
+[1495610237] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610238] info:    watchdog: starting process 'central-broker'
+[1495610238] info:    watchdog: process 'central-broker' started (PID 1644)
+[1495610245] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610246] info:    watchdog: starting process 'central-broker'
+[1495610246] info:    watchdog: process 'central-broker' started (PID 1661)
+[1495610253] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610254] info:    watchdog: starting process 'central-broker'
+[1495610254] info:    watchdog: process 'central-broker' started (PID 1677)
+[1495610261] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610262] info:    watchdog: starting process 'central-broker'
+[1495610262] info:    watchdog: process 'central-broker' started (PID 1693)
+[1495610269] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610270] info:    watchdog: starting process 'central-broker'
+[1495610270] info:    watchdog: process 'central-broker' started (PID 1709)
+[1495610277] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610278] info:    watchdog: starting process 'central-broker'
+[1495610278] info:    watchdog: process 'central-broker' started (PID 1725)
+[1495610285] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610286] info:    watchdog: starting process 'central-broker'
+[1495610286] info:    watchdog: process 'central-broker' started (PID 1742)
+[1495610293] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610294] info:    watchdog: starting process 'central-broker'
+[1495610294] info:    watchdog: process 'central-broker' started (PID 1776)
+[1495610301] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610302] info:    watchdog: starting process 'central-broker'
+[1495610302] info:    watchdog: process 'central-broker' started (PID 1792)
+[1495610309] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610310] info:    watchdog: starting process 'central-broker'
+[1495610310] info:    watchdog: process 'central-broker' started (PID 1808)
+[1495610317] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610318] info:    watchdog: starting process 'central-broker'
+[1495610318] info:    watchdog: process 'central-broker' started (PID 1824)
+[1495610325] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610326] info:    watchdog: starting process 'central-broker'
+[1495610326] info:    watchdog: process 'central-broker' started (PID 1841)
+[1495610333] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610334] info:    watchdog: starting process 'central-broker'
+[1495610334] info:    watchdog: process 'central-broker' started (PID 1857)
+[1495610341] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610342] info:    watchdog: starting process 'central-broker'
+[1495610342] info:    watchdog: process 'central-broker' started (PID 1873)
+[1495610349] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610350] info:    watchdog: starting process 'central-broker'
+[1495610350] info:    watchdog: process 'central-broker' started (PID 1889)
+[1495610357] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610358] info:    watchdog: starting process 'central-broker'
+[1495610358] info:    watchdog: process 'central-broker' started (PID 1906)
+[1495610365] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610366] info:    watchdog: starting process 'central-broker'
+[1495610366] info:    watchdog: process 'central-broker' started (PID 1922)
+[1495610373] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610374] info:    watchdog: starting process 'central-broker'
+[1495610374] info:    watchdog: process 'central-broker' started (PID 1938)
+[1495610381] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610382] info:    watchdog: starting process 'central-broker'
+[1495610382] info:    watchdog: process 'central-broker' started (PID 1954)
+[1495610389] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610390] info:    watchdog: starting process 'central-broker'
+[1495610390] info:    watchdog: process 'central-broker' started (PID 1970)
+[1495610397] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610398] info:    watchdog: starting process 'central-broker'
+[1495610398] info:    watchdog: process 'central-broker' started (PID 1987)
+[1495610405] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610406] info:    watchdog: starting process 'central-broker'
+[1495610406] info:    watchdog: process 'central-broker' started (PID 2003)
+[1495610413] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610414] info:    watchdog: starting process 'central-broker'
+[1495610414] info:    watchdog: process 'central-broker' started (PID 2019)
+[1495610421] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610422] info:    watchdog: starting process 'central-broker'
+[1495610422] info:    watchdog: process 'central-broker' started (PID 2035)
+[1495610429] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610430] info:    watchdog: starting process 'central-broker'
+[1495610430] info:    watchdog: process 'central-broker' started (PID 2051)
+[1495610437] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610438] info:    watchdog: starting process 'central-broker'
+[1495610438] info:    watchdog: process 'central-broker' started (PID 2068)
+[1495610445] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610446] info:    watchdog: starting process 'central-broker'
+[1495610446] info:    watchdog: process 'central-broker' started (PID 2084)
+[1495610453] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610454] info:    watchdog: starting process 'central-broker'
+[1495610454] info:    watchdog: process 'central-broker' started (PID 2101)
+[1495610461] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610462] info:    watchdog: starting process 'central-broker'
+[1495610462] info:    watchdog: process 'central-broker' started (PID 2118)
+[1495610469] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610470] info:    watchdog: starting process 'central-broker'
+[1495610470] info:    watchdog: process 'central-broker' started (PID 2135)
+[1495610477] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610478] info:    watchdog: starting process 'central-broker'
+[1495610478] info:    watchdog: process 'central-broker' started (PID 2151)
+[1495610485] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610486] info:    watchdog: starting process 'central-broker'
+[1495610486] info:    watchdog: process 'central-broker' started (PID 2167)
+[1495610493] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610494] info:    watchdog: starting process 'central-broker'
+[1495610494] info:    watchdog: process 'central-broker' started (PID 2183)
+[1495610501] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610502] info:    watchdog: starting process 'central-broker'
+[1495610502] info:    watchdog: process 'central-broker' started (PID 2199)
+[1495610509] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610510] info:    watchdog: starting process 'central-broker'
+[1495610510] info:    watchdog: process 'central-broker' started (PID 2216)
+[1495610517] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610518] info:    watchdog: starting process 'central-broker'
+[1495610518] info:    watchdog: process 'central-broker' started (PID 2232)
+[1495610525] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610526] info:    watchdog: starting process 'central-broker'
+[1495610526] info:    watchdog: process 'central-broker' started (PID 2248)
+[1495610533] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610534] info:    watchdog: starting process 'central-broker'
+[1495610534] info:    watchdog: process 'central-broker' started (PID 2264)
+[1495610541] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610542] info:    watchdog: starting process 'central-broker'
+[1495610542] info:    watchdog: process 'central-broker' started (PID 2280)
+[1495610549] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610550] info:    watchdog: starting process 'central-broker'
+[1495610550] info:    watchdog: process 'central-broker' started (PID 2298)
+[1495610557] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610558] info:    watchdog: starting process 'central-broker'
+[1495610558] info:    watchdog: process 'central-broker' started (PID 2314)
+[1495610565] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610566] info:    watchdog: starting process 'central-broker'
+[1495610566] info:    watchdog: process 'central-broker' started (PID 2330)
+[1495610573] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610574] info:    watchdog: starting process 'central-broker'
+[1495610574] info:    watchdog: process 'central-broker' started (PID 2346)
+[1495610581] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610582] info:    watchdog: starting process 'central-broker'
+[1495610582] info:    watchdog: process 'central-broker' started (PID 2363)
+[1495610589] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610590] info:    watchdog: starting process 'central-broker'
+[1495610590] info:    watchdog: process 'central-broker' started (PID 2379)
+[1495610597] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610598] info:    watchdog: starting process 'central-broker'
+[1495610598] info:    watchdog: process 'central-broker' started (PID 2395)
+[1495610605] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610606] info:    watchdog: starting process 'central-broker'
+[1495610606] info:    watchdog: process 'central-broker' started (PID 2412)
+[1495610613] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610614] info:    watchdog: starting process 'central-broker'
+[1495610614] info:    watchdog: process 'central-broker' started (PID 2428)
+[1495610621] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610622] info:    watchdog: starting process 'central-broker'
+[1495610622] info:    watchdog: process 'central-broker' started (PID 2445)
+[1495610629] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610630] info:    watchdog: starting process 'central-broker'
+[1495610630] info:    watchdog: process 'central-broker' started (PID 2461)
+[1495610637] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610638] info:    watchdog: starting process 'central-broker'
+[1495610638] info:    watchdog: process 'central-broker' started (PID 2477)
+[1495610645] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610646] info:    watchdog: starting process 'central-broker'
+[1495610646] info:    watchdog: process 'central-broker' started (PID 2493)
+[1495610653] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610654] info:    watchdog: starting process 'central-broker'
+[1495610654] info:    watchdog: process 'central-broker' started (PID 2509)
+[1495610661] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610662] info:    watchdog: starting process 'central-broker'
+[1495610662] info:    watchdog: process 'central-broker' started (PID 2526)
+[1495610669] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610670] info:    watchdog: starting process 'central-broker'
+[1495610670] info:    watchdog: process 'central-broker' started (PID 2542)
+[1495610677] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610678] info:    watchdog: starting process 'central-broker'
+[1495610678] info:    watchdog: process 'central-broker' started (PID 2558)
+[1495610685] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610686] info:    watchdog: starting process 'central-broker'
+[1495610686] info:    watchdog: process 'central-broker' started (PID 2574)
+[1495610693] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610694] info:    watchdog: starting process 'central-broker'
+[1495610694] info:    watchdog: process 'central-broker' started (PID 2591)
+[1495610701] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610702] info:    watchdog: starting process 'central-broker'
+[1495610702] info:    watchdog: process 'central-broker' started (PID 2607)
+[1495610709] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610710] info:    watchdog: starting process 'central-broker'
+[1495610710] info:    watchdog: process 'central-broker' started (PID 2623)
+[1495610717] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610718] info:    watchdog: starting process 'central-broker'
+[1495610718] info:    watchdog: process 'central-broker' started (PID 2639)
+[1495610725] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610726] info:    watchdog: starting process 'central-broker'
+[1495610726] info:    watchdog: process 'central-broker' started (PID 2655)
+[1495610733] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610734] info:    watchdog: starting process 'central-broker'
+[1495610734] info:    watchdog: process 'central-broker' started (PID 2672)
+[1495610741] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610742] info:    watchdog: starting process 'central-broker'
+[1495610742] info:    watchdog: process 'central-broker' started (PID 2688)
+[1495610749] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610750] info:    watchdog: starting process 'central-broker'
+[1495610750] info:    watchdog: process 'central-broker' started (PID 2704)
+[1495610757] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610758] info:    watchdog: starting process 'central-broker'
+[1495610758] info:    watchdog: process 'central-broker' started (PID 2720)
+[1495610765] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610766] info:    watchdog: starting process 'central-broker'
+[1495610766] info:    watchdog: process 'central-broker' started (PID 2736)
+[1495610773] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610774] info:    watchdog: starting process 'central-broker'
+[1495610774] info:    watchdog: process 'central-broker' started (PID 2753)
+[1495610781] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610782] info:    watchdog: starting process 'central-broker'
+[1495610782] info:    watchdog: process 'central-broker' started (PID 2769)
+[1495610789] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610790] info:    watchdog: starting process 'central-broker'
+[1495610790] info:    watchdog: process 'central-broker' started (PID 2785)
+[1495610797] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610798] info:    watchdog: starting process 'central-broker'
+[1495610798] info:    watchdog: process 'central-broker' started (PID 2801)
+[1495610805] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610806] info:    watchdog: starting process 'central-broker'
+[1495610806] info:    watchdog: process 'central-broker' started (PID 2817)
+[1495610813] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610814] info:    watchdog: starting process 'central-broker'
+[1495610814] info:    watchdog: process 'central-broker' started (PID 2834)
+[1495610821] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610822] info:    watchdog: starting process 'central-broker'
+[1495610822] info:    watchdog: process 'central-broker' started (PID 2850)
+[1495610829] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610830] info:    watchdog: starting process 'central-broker'
+[1495610830] info:    watchdog: process 'central-broker' started (PID 2866)
+[1495610837] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610838] info:    watchdog: starting process 'central-broker'
+[1495610838] info:    watchdog: process 'central-broker' started (PID 2882)
+[1495610845] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610846] info:    watchdog: starting process 'central-broker'
+[1495610846] info:    watchdog: process 'central-broker' started (PID 2899)
+[1495610853] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610854] info:    watchdog: starting process 'central-broker'
+[1495610854] info:    watchdog: process 'central-broker' started (PID 2915)
+[1495610861] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610862] info:    watchdog: starting process 'central-broker'
+[1495610862] info:    watchdog: process 'central-broker' started (PID 2932)
+[1495610869] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610870] info:    watchdog: starting process 'central-broker'
+[1495610870] info:    watchdog: process 'central-broker' started (PID 2948)
+[1495610877] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610878] info:    watchdog: starting process 'central-broker'
+[1495610878] info:    watchdog: process 'central-broker' started (PID 2964)
+[1495610885] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610886] info:    watchdog: starting process 'central-broker'
+[1495610886] info:    watchdog: process 'central-broker' started (PID 2981)
+[1495610893] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610894] info:    watchdog: starting process 'central-broker'
+[1495610894] info:    watchdog: process 'central-broker' started (PID 2997)
+[1495610901] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610902] info:    watchdog: starting process 'central-broker'
+[1495610902] info:    watchdog: process 'central-broker' started (PID 3013)
+[1495610909] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610910] info:    watchdog: starting process 'central-broker'
+[1495610910] info:    watchdog: process 'central-broker' started (PID 3029)
+[1495610917] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610918] info:    watchdog: starting process 'central-broker'
+[1495610918] info:    watchdog: process 'central-broker' started (PID 3046)
+[1495610925] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610926] info:    watchdog: starting process 'central-broker'
+[1495610926] info:    watchdog: process 'central-broker' started (PID 3062)
+[1495610933] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610934] info:    watchdog: starting process 'central-broker'
+[1495610934] info:    watchdog: process 'central-broker' started (PID 3078)
+[1495610941] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610942] info:    watchdog: starting process 'central-broker'
+[1495610942] info:    watchdog: process 'central-broker' started (PID 3094)
+[1495610949] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610950] info:    watchdog: starting process 'central-broker'
+[1495610950] info:    watchdog: process 'central-broker' started (PID 3110)
+[1495610957] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610958] info:    watchdog: starting process 'central-broker'
+[1495610958] info:    watchdog: process 'central-broker' started (PID 3127)
+[1495610965] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610966] info:    watchdog: starting process 'central-broker'
+[1495610966] info:    watchdog: process 'central-broker' started (PID 3143)
+[1495610973] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610974] info:    watchdog: starting process 'central-broker'
+[1495610974] info:    watchdog: process 'central-broker' started (PID 3159)
+[1495610981] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610982] info:    watchdog: starting process 'central-broker'
+[1495610982] info:    watchdog: process 'central-broker' started (PID 3175)
+[1495610989] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610990] info:    watchdog: starting process 'central-broker'
+[1495610990] info:    watchdog: process 'central-broker' started (PID 3191)
+[1495610997] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495610998] info:    watchdog: starting process 'central-broker'
+[1495610998] info:    watchdog: process 'central-broker' started (PID 3208)
+[1495611005] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611006] info:    watchdog: starting process 'central-broker'
+[1495611006] info:    watchdog: process 'central-broker' started (PID 3224)
+[1495611013] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611014] info:    watchdog: starting process 'central-broker'
+[1495611014] info:    watchdog: process 'central-broker' started (PID 3241)
+[1495611021] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611022] info:    watchdog: starting process 'central-broker'
+[1495611022] info:    watchdog: process 'central-broker' started (PID 3257)
+[1495611029] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611030] info:    watchdog: starting process 'central-broker'
+[1495611030] info:    watchdog: process 'central-broker' started (PID 3273)
+[1495611037] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611038] info:    watchdog: starting process 'central-broker'
+[1495611038] info:    watchdog: process 'central-broker' started (PID 3290)
+[1495611045] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611046] info:    watchdog: starting process 'central-broker'
+[1495611046] info:    watchdog: process 'central-broker' started (PID 3308)
+[1495611053] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611054] info:    watchdog: starting process 'central-broker'
+[1495611054] info:    watchdog: process 'central-broker' started (PID 3324)
+[1495611061] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611062] info:    watchdog: starting process 'central-broker'
+[1495611062] info:    watchdog: process 'central-broker' started (PID 3340)
+[1495611069] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611070] info:    watchdog: starting process 'central-broker'
+[1495611070] info:    watchdog: process 'central-broker' started (PID 3358)
+[1495611077] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611078] info:    watchdog: starting process 'central-broker'
+[1495611078] info:    watchdog: process 'central-broker' started (PID 3375)
+[1495611085] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611086] info:    watchdog: starting process 'central-broker'
+[1495611086] info:    watchdog: process 'central-broker' started (PID 3391)
+[1495611093] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611094] info:    watchdog: starting process 'central-broker'
+[1495611094] info:    watchdog: process 'central-broker' started (PID 3407)
+[1495611101] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611102] info:    watchdog: starting process 'central-broker'
+[1495611102] info:    watchdog: process 'central-broker' started (PID 3423)
+[1495611109] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611110] info:    watchdog: starting process 'central-broker'
+[1495611110] info:    watchdog: process 'central-broker' started (PID 3440)
+[1495611117] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611118] info:    watchdog: starting process 'central-broker'
+[1495611118] info:    watchdog: process 'central-broker' started (PID 3456)
+[1495611125] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611126] info:    watchdog: starting process 'central-broker'
+[1495611126] info:    watchdog: process 'central-broker' started (PID 3472)
+[1495611133] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611134] info:    watchdog: starting process 'central-broker'
+[1495611134] info:    watchdog: process 'central-broker' started (PID 3488)
+[1495611141] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611142] info:    watchdog: starting process 'central-broker'
+[1495611142] info:    watchdog: process 'central-broker' started (PID 3504)
+[1495611149] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611150] info:    watchdog: starting process 'central-broker'
+[1495611150] info:    watchdog: process 'central-broker' started (PID 3521)
+[1495611157] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611158] info:    watchdog: starting process 'central-broker'
+[1495611158] info:    watchdog: process 'central-broker' started (PID 3537)
+[1495611165] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611166] info:    watchdog: starting process 'central-broker'
+[1495611166] info:    watchdog: process 'central-broker' started (PID 3553)
+[1495611173] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611174] info:    watchdog: starting process 'central-broker'
+[1495611174] info:    watchdog: process 'central-broker' started (PID 3570)
+[1495611181] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611182] info:    watchdog: starting process 'central-broker'
+[1495611182] info:    watchdog: process 'central-broker' started (PID 3587)
+[1495611189] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611190] info:    watchdog: starting process 'central-broker'
+[1495611190] info:    watchdog: process 'central-broker' started (PID 3603)
+[1495611197] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611198] info:    watchdog: starting process 'central-broker'
+[1495611198] info:    watchdog: process 'central-broker' started (PID 3619)
+[1495611205] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611206] info:    watchdog: starting process 'central-broker'
+[1495611206] info:    watchdog: process 'central-broker' started (PID 3635)
+[1495611213] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611214] info:    watchdog: starting process 'central-broker'
+[1495611214] info:    watchdog: process 'central-broker' started (PID 3651)
+[1495611221] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611222] info:    watchdog: starting process 'central-broker'
+[1495611222] info:    watchdog: process 'central-broker' started (PID 3668)
+[1495611229] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611230] info:    watchdog: starting process 'central-broker'
+[1495611230] info:    watchdog: process 'central-broker' started (PID 3684)
+[1495611237] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611238] info:    watchdog: starting process 'central-broker'
+[1495611238] info:    watchdog: process 'central-broker' started (PID 3700)
+[1495611245] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611246] info:    watchdog: starting process 'central-broker'
+[1495611246] info:    watchdog: process 'central-broker' started (PID 3716)
+[1495611253] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611254] info:    watchdog: starting process 'central-broker'
+[1495611254] info:    watchdog: process 'central-broker' started (PID 3732)
+[1495611261] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611262] info:    watchdog: starting process 'central-broker'
+[1495611262] info:    watchdog: process 'central-broker' started (PID 3749)
+[1495611269] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611270] info:    watchdog: starting process 'central-broker'
+[1495611270] info:    watchdog: process 'central-broker' started (PID 3765)
+[1495611277] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611278] info:    watchdog: starting process 'central-broker'
+[1495611278] info:    watchdog: process 'central-broker' started (PID 3781)
+[1495611285] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611286] info:    watchdog: starting process 'central-broker'
+[1495611286] info:    watchdog: process 'central-broker' started (PID 3797)
+[1495611293] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611294] info:    watchdog: starting process 'central-broker'
+[1495611294] info:    watchdog: process 'central-broker' started (PID 3814)
+[1495611301] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611302] info:    watchdog: starting process 'central-broker'
+[1495611302] info:    watchdog: process 'central-broker' started (PID 3830)
+[1495611309] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611310] info:    watchdog: starting process 'central-broker'
+[1495611310] info:    watchdog: process 'central-broker' started (PID 3846)
+[1495611317] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611318] info:    watchdog: starting process 'central-broker'
+[1495611318] info:    watchdog: process 'central-broker' started (PID 3862)
+[1495611325] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611326] info:    watchdog: starting process 'central-broker'
+[1495611326] info:    watchdog: process 'central-broker' started (PID 3878)
+[1495611333] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611334] info:    watchdog: starting process 'central-broker'
+[1495611334] info:    watchdog: process 'central-broker' started (PID 3895)
+[1495611341] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611342] info:    watchdog: starting process 'central-broker'
+[1495611342] info:    watchdog: process 'central-broker' started (PID 3911)
+[1495611349] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611350] info:    watchdog: starting process 'central-broker'
+[1495611350] info:    watchdog: process 'central-broker' started (PID 3927)
+[1495611357] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611358] info:    watchdog: starting process 'central-broker'
+[1495611358] info:    watchdog: process 'central-broker' started (PID 3943)
+[1495611365] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611366] info:    watchdog: starting process 'central-broker'
+[1495611366] info:    watchdog: process 'central-broker' started (PID 3959)
+[1495611373] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611374] info:    watchdog: starting process 'central-broker'
+[1495611374] info:    watchdog: process 'central-broker' started (PID 3976)
+[1495611381] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611382] info:    watchdog: starting process 'central-broker'
+[1495611382] info:    watchdog: process 'central-broker' started (PID 3994)
+[1495611389] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611390] info:    watchdog: starting process 'central-broker'
+[1495611390] info:    watchdog: process 'central-broker' started (PID 4010)
+[1495611397] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611398] info:    watchdog: starting process 'central-broker'
+[1495611398] info:    watchdog: process 'central-broker' started (PID 4027)
+[1495611405] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611406] info:    watchdog: starting process 'central-broker'
+[1495611406] info:    watchdog: process 'central-broker' started (PID 4043)
+[1495611413] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611414] info:    watchdog: starting process 'central-broker'
+[1495611414] info:    watchdog: process 'central-broker' started (PID 4060)
+[1495611421] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611422] info:    watchdog: starting process 'central-broker'
+[1495611422] info:    watchdog: process 'central-broker' started (PID 4076)
+[1495611429] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611430] info:    watchdog: starting process 'central-broker'
+[1495611430] info:    watchdog: process 'central-broker' started (PID 4092)
+[1495611437] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611438] info:    watchdog: starting process 'central-broker'
+[1495611438] info:    watchdog: process 'central-broker' started (PID 4108)
+[1495611445] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611446] info:    watchdog: starting process 'central-broker'
+[1495611446] info:    watchdog: process 'central-broker' started (PID 4125)
+[1495611453] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611454] info:    watchdog: starting process 'central-broker'
+[1495611454] info:    watchdog: process 'central-broker' started (PID 4141)
+[1495611461] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611462] info:    watchdog: starting process 'central-broker'
+[1495611462] info:    watchdog: process 'central-broker' started (PID 4157)
+[1495611469] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611470] info:    watchdog: starting process 'central-broker'
+[1495611470] info:    watchdog: process 'central-broker' started (PID 4173)
+[1495611477] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611478] info:    watchdog: starting process 'central-broker'
+[1495611478] info:    watchdog: process 'central-broker' started (PID 4190)
+[1495611485] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611486] info:    watchdog: starting process 'central-broker'
+[1495611486] info:    watchdog: process 'central-broker' started (PID 4207)
+[1495611493] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611494] info:    watchdog: starting process 'central-broker'
+[1495611494] info:    watchdog: process 'central-broker' started (PID 4223)
+[1495611501] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611502] info:    watchdog: starting process 'central-broker'
+[1495611502] info:    watchdog: process 'central-broker' started (PID 4239)
+[1495611509] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611510] info:    watchdog: starting process 'central-broker'
+[1495611510] info:    watchdog: process 'central-broker' started (PID 4255)
+[1495611517] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611518] info:    watchdog: starting process 'central-broker'
+[1495611518] info:    watchdog: process 'central-broker' started (PID 4271)
+[1495611525] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611526] info:    watchdog: starting process 'central-broker'
+[1495611526] info:    watchdog: process 'central-broker' started (PID 4288)
+[1495611533] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611534] info:    watchdog: starting process 'central-broker'
+[1495611534] info:    watchdog: process 'central-broker' started (PID 4304)
+[1495611541] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611542] info:    watchdog: starting process 'central-broker'
+[1495611542] info:    watchdog: process 'central-broker' started (PID 4320)
+[1495611549] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611550] info:    watchdog: starting process 'central-broker'
+[1495611550] info:    watchdog: process 'central-broker' started (PID 4336)
+[1495611557] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611558] info:    watchdog: starting process 'central-broker'
+[1495611558] info:    watchdog: process 'central-broker' started (PID 4353)
+[1495611565] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611566] info:    watchdog: starting process 'central-broker'
+[1495611566] info:    watchdog: process 'central-broker' started (PID 4369)
+[1495611573] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611574] info:    watchdog: starting process 'central-broker'
+[1495611574] info:    watchdog: process 'central-broker' started (PID 4385)
+[1495611581] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611582] info:    watchdog: starting process 'central-broker'
+[1495611582] info:    watchdog: process 'central-broker' started (PID 4401)
+[1495611589] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611590] info:    watchdog: starting process 'central-broker'
+[1495611590] info:    watchdog: process 'central-broker' started (PID 4417)
+[1495611597] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611598] info:    watchdog: starting process 'central-broker'
+[1495611598] info:    watchdog: process 'central-broker' started (PID 4434)
+[1495611605] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611606] info:    watchdog: starting process 'central-broker'
+[1495611606] info:    watchdog: process 'central-broker' started (PID 4450)
+[1495611613] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611614] info:    watchdog: starting process 'central-broker'
+[1495611614] info:    watchdog: process 'central-broker' started (PID 4466)
+[1495611621] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611622] info:    watchdog: starting process 'central-broker'
+[1495611622] info:    watchdog: process 'central-broker' started (PID 4482)
+[1495611629] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611630] info:    watchdog: starting process 'central-broker'
+[1495611630] info:    watchdog: process 'central-broker' started (PID 4498)
+[1495611637] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611638] info:    watchdog: starting process 'central-broker'
+[1495611638] info:    watchdog: process 'central-broker' started (PID 4515)
+[1495611645] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611646] info:    watchdog: starting process 'central-broker'
+[1495611646] info:    watchdog: process 'central-broker' started (PID 4531)
+[1495611653] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611654] info:    watchdog: starting process 'central-broker'
+[1495611654] info:    watchdog: process 'central-broker' started (PID 4547)
+[1495611661] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611662] info:    watchdog: starting process 'central-broker'
+[1495611662] info:    watchdog: process 'central-broker' started (PID 4563)
+[1495611669] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611670] info:    watchdog: starting process 'central-broker'
+[1495611670] info:    watchdog: process 'central-broker' started (PID 4580)
+[1495611677] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611678] info:    watchdog: starting process 'central-broker'
+[1495611678] info:    watchdog: process 'central-broker' started (PID 4596)
+[1495611685] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611686] info:    watchdog: starting process 'central-broker'
+[1495611686] info:    watchdog: process 'central-broker' started (PID 4612)
+[1495611693] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611694] info:    watchdog: starting process 'central-broker'
+[1495611694] info:    watchdog: process 'central-broker' started (PID 4628)
+[1495611701] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611702] info:    watchdog: starting process 'central-broker'
+[1495611702] info:    watchdog: process 'central-broker' started (PID 4644)
+[1495611709] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611710] info:    watchdog: starting process 'central-broker'
+[1495611710] info:    watchdog: process 'central-broker' started (PID 4661)
+[1495611717] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611718] info:    watchdog: starting process 'central-broker'
+[1495611718] info:    watchdog: process 'central-broker' started (PID 4677)
+[1495611725] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611726] info:    watchdog: starting process 'central-broker'
+[1495611726] info:    watchdog: process 'central-broker' started (PID 4693)
+[1495611733] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611734] info:    watchdog: starting process 'central-broker'
+[1495611734] info:    watchdog: process 'central-broker' started (PID 4709)
+[1495611741] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611742] info:    watchdog: starting process 'central-broker'
+[1495611742] info:    watchdog: process 'central-broker' started (PID 4725)
+[1495611749] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611750] info:    watchdog: starting process 'central-broker'
+[1495611750] info:    watchdog: process 'central-broker' started (PID 4742)
+[1495611757] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611758] info:    watchdog: starting process 'central-broker'
+[1495611758] info:    watchdog: process 'central-broker' started (PID 4758)
+[1495611765] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611766] info:    watchdog: starting process 'central-broker'
+[1495611766] info:    watchdog: process 'central-broker' started (PID 4774)
+[1495611773] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611774] info:    watchdog: starting process 'central-broker'
+[1495611774] info:    watchdog: process 'central-broker' started (PID 4790)
+[1495611781] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611782] info:    watchdog: starting process 'central-broker'
+[1495611782] info:    watchdog: process 'central-broker' started (PID 4807)
+[1495611789] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611790] info:    watchdog: starting process 'central-broker'
+[1495611790] info:    watchdog: process 'central-broker' started (PID 4824)
+[1495611797] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611798] info:    watchdog: starting process 'central-broker'
+[1495611798] info:    watchdog: process 'central-broker' started (PID 4840)
+[1495611805] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611806] info:    watchdog: starting process 'central-broker'
+[1495611806] info:    watchdog: process 'central-broker' started (PID 4856)
+[1495611813] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611814] info:    watchdog: starting process 'central-broker'
+[1495611814] info:    watchdog: process 'central-broker' started (PID 4872)
+[1495611821] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611822] info:    watchdog: starting process 'central-broker'
+[1495611822] info:    watchdog: process 'central-broker' started (PID 4889)
+[1495611829] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611830] info:    watchdog: starting process 'central-broker'
+[1495611830] info:    watchdog: process 'central-broker' started (PID 4905)
+[1495611837] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611838] info:    watchdog: starting process 'central-broker'
+[1495611838] info:    watchdog: process 'central-broker' started (PID 4921)
+[1495611845] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611846] info:    watchdog: starting process 'central-broker'
+[1495611846] info:    watchdog: process 'central-broker' started (PID 4937)
+[1495611853] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611854] info:    watchdog: starting process 'central-broker'
+[1495611854] info:    watchdog: process 'central-broker' started (PID 4953)
+[1495611861] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611862] info:    watchdog: starting process 'central-broker'
+[1495611862] info:    watchdog: process 'central-broker' started (PID 4970)
+[1495611869] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611870] info:    watchdog: starting process 'central-broker'
+[1495611870] info:    watchdog: process 'central-broker' started (PID 4986)
+[1495611877] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611878] info:    watchdog: starting process 'central-broker'
+[1495611878] info:    watchdog: process 'central-broker' started (PID 5002)
+[1495611885] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611886] info:    watchdog: starting process 'central-broker'
+[1495611886] info:    watchdog: process 'central-broker' started (PID 5018)
+[1495611893] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611894] info:    watchdog: starting process 'central-broker'
+[1495611894] info:    watchdog: process 'central-broker' started (PID 5035)
+[1495611901] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611902] info:    watchdog: starting process 'central-broker'
+[1495611902] info:    watchdog: process 'central-broker' started (PID 5051)
+[1495611909] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611910] info:    watchdog: starting process 'central-broker'
+[1495611910] info:    watchdog: process 'central-broker' started (PID 5067)
+[1495611917] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611918] info:    watchdog: starting process 'central-broker'
+[1495611918] info:    watchdog: process 'central-broker' started (PID 5083)
+[1495611925] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611926] info:    watchdog: starting process 'central-broker'
+[1495611926] info:    watchdog: process 'central-broker' started (PID 5099)
+[1495611933] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611934] info:    watchdog: starting process 'central-broker'
+[1495611934] info:    watchdog: process 'central-broker' started (PID 5116)
+[1495611941] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611942] info:    watchdog: starting process 'central-broker'
+[1495611942] info:    watchdog: process 'central-broker' started (PID 5132)
+[1495611949] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611950] info:    watchdog: starting process 'central-broker'
+[1495611950] info:    watchdog: process 'central-broker' started (PID 5148)
+[1495611957] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611958] info:    watchdog: starting process 'central-broker'
+[1495611958] info:    watchdog: process 'central-broker' started (PID 5164)
+[1495611965] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611966] info:    watchdog: starting process 'central-broker'
+[1495611966] info:    watchdog: process 'central-broker' started (PID 5180)
+[1495611973] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611974] info:    watchdog: starting process 'central-broker'
+[1495611974] info:    watchdog: process 'central-broker' started (PID 5197)
+[1495611981] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611982] info:    watchdog: starting process 'central-broker'
+[1495611982] info:    watchdog: process 'central-broker' started (PID 5213)
+[1495611989] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611990] info:    watchdog: starting process 'central-broker'
+[1495611990] info:    watchdog: process 'central-broker' started (PID 5229)
+[1495611997] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495611998] info:    watchdog: starting process 'central-broker'
+[1495611998] info:    watchdog: process 'central-broker' started (PID 5245)
+[1495612005] error:   watchdog: process 'central-broker' terminated unexpectedly, restarting it in 1 seconds
+[1495612006] info:    watchdog: starting process 'central-broker'
+[1495612006] info:    watchdog: process 'central-broker' started (PID 5261)
+[1495612012] info:    watchdog: stopping process 'central-broker' (PID 5261)
+[1495612012] error:   watchdog: process 'central-broker' stopped gracefully
+[1495612012] info:    watchdog: stopping process 'central-rrd' (PID 262)
+[1495612014] error:   watchdog: process 'central-rrd' stopped gracefully
+[1495612014] info:    watchdog: starting process 'central-broker-master'
+[1495612014] info:    watchdog: process 'central-broker-master' started (PID 5368)
+[1495612014] info:    watchdog: starting process 'central-rrd-master'
+[1495612014] info:    watchdog: process 'central-rrd-master' started (PID 5369)
+[1495612062] info:    watchdog: sending update signal to process 'central-broker-master' (PID 5368)
+[1495612062] info:    watchdog: sending update signal to process 'central-rrd-master' (PID 5369)
+[1495612926] info:    watchdog: sending update signal to process 'central-broker-master' (PID 5368)
+[1495612926] info:    watchdog: sending update signal to process 'central-rrd-master' (PID 5369)
+[1495613162] info:    watchdog: sending update signal to process 'central-broker-master' (PID 5368)
+[1495613162] info:    watchdog: sending update signal to process 'central-rrd-master' (PID 5369)
+[1495613268] info:    watchdog: sending update signal to process 'central-broker-master' (PID 5368)
+[1495613268] info:    watchdog: sending update signal to process 'central-rrd-master' (PID 5369)
+[1495613588] info:    watchdog: sending update signal to process 'central-broker-master' (PID 5368)
+[1495613588] info:    watchdog: sending update signal to process 'central-rrd-master' (PID 5369)
+Centreon Broker 3.0.7 log file opened
+[1495613996] info:    watchdog: starting process 'central-broker-master'
+[1495613996] info:    watchdog: process 'central-broker-master' started (PID 264)
+[1495613996] info:    watchdog: starting process 'central-rrd-master'
+[1495613996] info:    watchdog: process 'central-rrd-master' started (PID 265)

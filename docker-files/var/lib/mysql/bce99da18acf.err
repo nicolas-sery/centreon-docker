@@ -1,0 +1,25 @@
+170524 07:06:45 mysqld_safe Starting mysqld daemon with databases from /var/lib/mysql
+2017-05-24  7:06:45 139959915780128 [Note] /usr/sbin/mysqld (mysqld 10.1.23-MariaDB) starting as process 145 ...
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Using Linux native AIO
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Using SSE crc32 instructions
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Completed initialization of buffer pool
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: The log sequence numbers 1616819 and 1616819 in ibdata files do not match the log sequence number 1616829 in the ib_logfiles!
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB: Waiting for purge to start
+2017-05-24  7:06:45 139959915780128 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.35-80.0 started; log sequence number 1616829
+2017-05-24  7:06:45 139959054870272 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-05-24  7:06:45 139959915780128 [Note] Plugin 'FEEDBACK' is disabled.
+2017-05-24  7:06:45 139959915780128 [Note] Recovering after a crash using tc.log
+2017-05-24  7:06:45 139959915780128 [Note] Starting crash recovery...
+2017-05-24  7:06:45 139959915780128 [Note] Crash recovery finished.
+2017-05-24  7:06:45 139959915780128 [Note] Server socket created on IP: '::'.
+2017-05-24  7:06:45 139959915780128 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '10.1.23-MariaDB'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MariaDB Server

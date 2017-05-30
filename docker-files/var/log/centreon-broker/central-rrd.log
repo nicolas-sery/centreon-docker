@@ -1,0 +1,639 @@
+Centreon Broker 3.0.7 log file opened
+Centreon Broker 3.0.7 log file opened
+[1495609606] config:  module applier: loading directory '/usr/share/centreon/lib/centreon-broker'
+[1495609606] info:    dumper: module for Centreon Broker 3.0.7
+[1495609606] info:    NEB: module for Centreon Broker 3.0.7
+[1495609606] info:    stats: module for Centreon Broker 3.0.7
+[1495609606] info:    BAM: module for Centreon Broker 3.0.7
+[1495609606] info:    storage: module for Centreon Broker 3.0.7
+[1495609606] info:    correlation: module for Centreon Broker 3.0.7
+[1495609606] info:    notification: module for Centreon Broker 3.0.7
+[1495609606] info:    TCP: module for Centreon Broker 3.0.7
+[1495609606] info:    TLS: module for Centreon Broker 3.0.7
+[1495609606] info:    TLS: initializing libgcrypt (GNU TLS <= 2.11.0)
+[1495609606] info:    TLS: loading GNU TLS version 2.12.23
+[1495609606] info:    RRD: module for Centreon Broker 3.0.7
+[1495609606] info:    RRD: using rrdtool 1.4.7
+[1495609606] info:    SQL: module for Centreon Broker 3.0.7
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.memory.central-rrd-input'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.memory.central-rrd-input' reached, erasing file
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input' reached, erasing file
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.memory.central-rrd-files'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.memory.central-rrd-files' reached, erasing file
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-files'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-files' reached, erasing file
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.memory.(external commands)'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.memory.(external commands)' reached, erasing file
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.(external commands)'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.(external commands)' reached, erasing file
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.unprocessed'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.unprocessed' reached, NOT erasing file
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.(external commands)'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.(external commands)' reached, erasing file
+[1495609606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-1'
+[1495609606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-1' reached, erasing file
+[1495609614] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-2'
+[1495609614] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-2' reached, erasing file
+[1495609622] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-3'
+[1495609622] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-3' reached, erasing file
+[1495609630] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-4'
+[1495609630] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-4' reached, erasing file
+[1495609638] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-5'
+[1495609638] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-5' reached, erasing file
+[1495609646] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-6'
+[1495609646] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-6' reached, erasing file
+[1495609654] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-7'
+[1495609654] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-7' reached, erasing file
+[1495609662] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-8'
+[1495609662] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-8' reached, erasing file
+[1495609670] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-9'
+[1495609670] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-9' reached, erasing file
+[1495609678] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-10'
+[1495609678] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-10' reached, erasing file
+[1495609686] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-11'
+[1495609686] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-11' reached, erasing file
+[1495609694] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-12'
+[1495609694] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-12' reached, erasing file
+[1495609702] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-13'
+[1495609702] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-13' reached, erasing file
+[1495609710] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-14'
+[1495609710] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-14' reached, erasing file
+[1495609718] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-15'
+[1495609718] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-15' reached, erasing file
+[1495609726] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-16'
+[1495609726] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-16' reached, erasing file
+[1495609734] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-17'
+[1495609734] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-17' reached, erasing file
+[1495609742] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-18'
+[1495609742] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-18' reached, erasing file
+[1495609750] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-19'
+[1495609750] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-19' reached, erasing file
+[1495609758] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-20'
+[1495609758] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-20' reached, erasing file
+[1495609766] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-21'
+[1495609766] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-21' reached, erasing file
+[1495609774] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-22'
+[1495609774] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-22' reached, erasing file
+[1495609782] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-23'
+[1495609782] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-23' reached, erasing file
+[1495609790] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-24'
+[1495609790] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-24' reached, erasing file
+[1495609798] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-25'
+[1495609798] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-25' reached, erasing file
+[1495609806] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-26'
+[1495609806] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-26' reached, erasing file
+[1495609814] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-27'
+[1495609814] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-27' reached, erasing file
+[1495609822] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-28'
+[1495609822] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-28' reached, erasing file
+[1495609830] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-29'
+[1495609830] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-29' reached, erasing file
+[1495609838] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-30'
+[1495609838] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-30' reached, erasing file
+[1495609846] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-31'
+[1495609846] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-31' reached, erasing file
+[1495609854] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-32'
+[1495609854] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-32' reached, erasing file
+[1495609862] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-33'
+[1495609862] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-33' reached, erasing file
+[1495609870] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-34'
+[1495609870] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-34' reached, erasing file
+[1495609878] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-35'
+[1495609878] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-35' reached, erasing file
+[1495609886] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-36'
+[1495609886] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-36' reached, erasing file
+[1495609894] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-37'
+[1495609894] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-37' reached, erasing file
+[1495609902] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-38'
+[1495609902] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-38' reached, erasing file
+[1495609910] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-39'
+[1495609910] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-39' reached, erasing file
+[1495609918] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-40'
+[1495609918] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-40' reached, erasing file
+[1495609926] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-41'
+[1495609926] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-41' reached, erasing file
+[1495609934] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-42'
+[1495609934] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-42' reached, erasing file
+[1495609942] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-43'
+[1495609942] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-43' reached, erasing file
+[1495609950] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-44'
+[1495609950] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-44' reached, erasing file
+[1495609958] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-45'
+[1495609958] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-45' reached, erasing file
+[1495609966] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-46'
+[1495609966] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-46' reached, erasing file
+[1495609974] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-47'
+[1495609974] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-47' reached, erasing file
+[1495609982] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-48'
+[1495609982] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-48' reached, erasing file
+[1495609990] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-49'
+[1495609990] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-49' reached, erasing file
+[1495609998] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-50'
+[1495609998] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-50' reached, erasing file
+[1495610006] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-51'
+[1495610006] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-51' reached, erasing file
+[1495610014] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-52'
+[1495610014] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-52' reached, erasing file
+[1495610022] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-53'
+[1495610022] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-53' reached, erasing file
+[1495610030] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-54'
+[1495610030] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-54' reached, erasing file
+[1495610038] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-55'
+[1495610038] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-55' reached, erasing file
+[1495610046] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-56'
+[1495610046] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-56' reached, erasing file
+[1495610054] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-57'
+[1495610054] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-57' reached, erasing file
+[1495610062] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-58'
+[1495610062] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-58' reached, erasing file
+[1495610070] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-59'
+[1495610070] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-59' reached, erasing file
+[1495610078] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-60'
+[1495610078] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-60' reached, erasing file
+[1495610086] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-61'
+[1495610086] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-61' reached, erasing file
+[1495610094] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-62'
+[1495610094] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-62' reached, erasing file
+[1495610102] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-63'
+[1495610102] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-63' reached, erasing file
+[1495610110] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-64'
+[1495610110] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-64' reached, erasing file
+[1495610118] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-65'
+[1495610118] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-65' reached, erasing file
+[1495610126] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-66'
+[1495610126] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-66' reached, erasing file
+[1495610134] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-67'
+[1495610134] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-67' reached, erasing file
+[1495610142] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-68'
+[1495610142] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-68' reached, erasing file
+[1495610150] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-69'
+[1495610150] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-69' reached, erasing file
+[1495610158] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-70'
+[1495610158] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-70' reached, erasing file
+[1495610166] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-71'
+[1495610166] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-71' reached, erasing file
+[1495610174] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-72'
+[1495610174] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-72' reached, erasing file
+[1495610182] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-73'
+[1495610182] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-73' reached, erasing file
+[1495610190] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-74'
+[1495610190] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-74' reached, erasing file
+[1495610198] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-75'
+[1495610198] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-75' reached, erasing file
+[1495610206] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-76'
+[1495610206] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-76' reached, erasing file
+[1495610214] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-77'
+[1495610214] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-77' reached, erasing file
+[1495610222] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-78'
+[1495610222] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-78' reached, erasing file
+[1495610230] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-79'
+[1495610230] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-79' reached, erasing file
+[1495610238] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-80'
+[1495610238] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-80' reached, erasing file
+[1495610246] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-81'
+[1495610246] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-81' reached, erasing file
+[1495610254] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-82'
+[1495610254] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-82' reached, erasing file
+[1495610262] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-83'
+[1495610262] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-83' reached, erasing file
+[1495610270] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-84'
+[1495610270] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-84' reached, erasing file
+[1495610278] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-85'
+[1495610278] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-85' reached, erasing file
+[1495610286] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-86'
+[1495610286] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-86' reached, erasing file
+[1495610294] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-87'
+[1495610294] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-87' reached, erasing file
+[1495610302] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-88'
+[1495610302] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-88' reached, erasing file
+[1495610310] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-89'
+[1495610310] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-89' reached, erasing file
+[1495610318] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-90'
+[1495610318] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-90' reached, erasing file
+[1495610326] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-91'
+[1495610326] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-91' reached, erasing file
+[1495610334] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-92'
+[1495610334] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-92' reached, erasing file
+[1495610342] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-93'
+[1495610342] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-93' reached, erasing file
+[1495610350] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-94'
+[1495610350] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-94' reached, erasing file
+[1495610358] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-95'
+[1495610358] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-95' reached, erasing file
+[1495610366] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-96'
+[1495610366] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-96' reached, erasing file
+[1495610374] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-97'
+[1495610374] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-97' reached, erasing file
+[1495610382] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-98'
+[1495610382] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-98' reached, erasing file
+[1495610390] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-99'
+[1495610390] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-99' reached, erasing file
+[1495610398] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-100'
+[1495610398] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-100' reached, erasing file
+[1495610406] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-101'
+[1495610406] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-101' reached, erasing file
+[1495610414] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-102'
+[1495610414] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-102' reached, erasing file
+[1495610422] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-103'
+[1495610422] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-103' reached, erasing file
+[1495610430] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-104'
+[1495610430] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-104' reached, erasing file
+[1495610438] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-105'
+[1495610438] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-105' reached, erasing file
+[1495610446] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-106'
+[1495610446] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-106' reached, erasing file
+[1495610454] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-107'
+[1495610454] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-107' reached, erasing file
+[1495610462] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-108'
+[1495610462] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-108' reached, erasing file
+[1495610470] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-109'
+[1495610470] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-109' reached, erasing file
+[1495610478] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-110'
+[1495610478] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-110' reached, erasing file
+[1495610486] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-111'
+[1495610486] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-111' reached, erasing file
+[1495610494] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-112'
+[1495610494] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-112' reached, erasing file
+[1495610502] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-113'
+[1495610502] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-113' reached, erasing file
+[1495610510] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-114'
+[1495610510] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-114' reached, erasing file
+[1495610518] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-115'
+[1495610518] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-115' reached, erasing file
+[1495610526] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-116'
+[1495610526] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-116' reached, erasing file
+[1495610534] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-117'
+[1495610534] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-117' reached, erasing file
+[1495610542] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-118'
+[1495610542] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-118' reached, erasing file
+[1495610550] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-119'
+[1495610550] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-119' reached, erasing file
+[1495610558] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-120'
+[1495610558] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-120' reached, erasing file
+[1495610566] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-121'
+[1495610566] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-121' reached, erasing file
+[1495610574] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-122'
+[1495610574] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-122' reached, erasing file
+[1495610582] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-123'
+[1495610582] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-123' reached, erasing file
+[1495610590] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-124'
+[1495610590] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-124' reached, erasing file
+[1495610598] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-125'
+[1495610598] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-125' reached, erasing file
+[1495610606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-126'
+[1495610606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-126' reached, erasing file
+[1495610614] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-127'
+[1495610614] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-127' reached, erasing file
+[1495610622] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-128'
+[1495610622] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-128' reached, erasing file
+[1495610630] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-129'
+[1495610630] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-129' reached, erasing file
+[1495610638] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-130'
+[1495610638] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-130' reached, erasing file
+[1495610646] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-131'
+[1495610646] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-131' reached, erasing file
+[1495610654] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-132'
+[1495610654] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-132' reached, erasing file
+[1495610662] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-133'
+[1495610662] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-133' reached, erasing file
+[1495610670] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-134'
+[1495610670] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-134' reached, erasing file
+[1495610678] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-135'
+[1495610678] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-135' reached, erasing file
+[1495610686] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-136'
+[1495610686] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-136' reached, erasing file
+[1495610694] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-137'
+[1495610694] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-137' reached, erasing file
+[1495610702] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-138'
+[1495610702] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-138' reached, erasing file
+[1495610710] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-139'
+[1495610710] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-139' reached, erasing file
+[1495610718] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-140'
+[1495610718] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-140' reached, erasing file
+[1495610726] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-141'
+[1495610726] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-141' reached, erasing file
+[1495610734] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-142'
+[1495610734] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-142' reached, erasing file
+[1495610742] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-143'
+[1495610742] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-143' reached, erasing file
+[1495610750] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-144'
+[1495610750] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-144' reached, erasing file
+[1495610758] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-145'
+[1495610758] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-145' reached, erasing file
+[1495610766] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-146'
+[1495610766] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-146' reached, erasing file
+[1495610774] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-147'
+[1495610774] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-147' reached, erasing file
+[1495610782] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-148'
+[1495610782] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-148' reached, erasing file
+[1495610790] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-149'
+[1495610790] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-149' reached, erasing file
+[1495610798] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-150'
+[1495610798] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-150' reached, erasing file
+[1495610806] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-151'
+[1495610806] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-151' reached, erasing file
+[1495610814] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-152'
+[1495610814] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-152' reached, erasing file
+[1495610822] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-153'
+[1495610822] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-153' reached, erasing file
+[1495610830] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-154'
+[1495610830] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-154' reached, erasing file
+[1495610838] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-155'
+[1495610838] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-155' reached, erasing file
+[1495610846] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-156'
+[1495610846] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-156' reached, erasing file
+[1495610854] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-157'
+[1495610854] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-157' reached, erasing file
+[1495610862] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-158'
+[1495610862] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-158' reached, erasing file
+[1495610870] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-159'
+[1495610870] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-159' reached, erasing file
+[1495610878] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-160'
+[1495610878] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-160' reached, erasing file
+[1495610886] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-161'
+[1495610886] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-161' reached, erasing file
+[1495610894] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-162'
+[1495610894] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-162' reached, erasing file
+[1495610902] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-163'
+[1495610902] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-163' reached, erasing file
+[1495610910] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-164'
+[1495610910] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-164' reached, erasing file
+[1495610918] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-165'
+[1495610918] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-165' reached, erasing file
+[1495610926] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-166'
+[1495610926] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-166' reached, erasing file
+[1495610934] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-167'
+[1495610934] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-167' reached, erasing file
+[1495610942] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-168'
+[1495610942] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-168' reached, erasing file
+[1495610950] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-169'
+[1495610950] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-169' reached, erasing file
+[1495610958] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-170'
+[1495610958] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-170' reached, erasing file
+[1495610966] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-171'
+[1495610966] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-171' reached, erasing file
+[1495610974] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-172'
+[1495610974] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-172' reached, erasing file
+[1495610982] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-173'
+[1495610982] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-173' reached, erasing file
+[1495610990] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-174'
+[1495610990] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-174' reached, erasing file
+[1495610998] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-175'
+[1495610998] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-175' reached, erasing file
+[1495611006] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-176'
+[1495611006] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-176' reached, erasing file
+[1495611014] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-177'
+[1495611014] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-177' reached, erasing file
+[1495611022] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-178'
+[1495611022] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-178' reached, erasing file
+[1495611030] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-179'
+[1495611030] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-179' reached, erasing file
+[1495611038] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-180'
+[1495611038] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-180' reached, erasing file
+[1495611046] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-181'
+[1495611046] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-181' reached, erasing file
+[1495611054] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-182'
+[1495611054] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-182' reached, erasing file
+[1495611062] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-183'
+[1495611062] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-183' reached, erasing file
+[1495611070] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-184'
+[1495611070] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-184' reached, erasing file
+[1495611078] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-185'
+[1495611078] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-185' reached, erasing file
+[1495611086] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-186'
+[1495611086] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-186' reached, erasing file
+[1495611094] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-187'
+[1495611094] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-187' reached, erasing file
+[1495611102] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-188'
+[1495611102] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-188' reached, erasing file
+[1495611110] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-189'
+[1495611110] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-189' reached, erasing file
+[1495611118] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-190'
+[1495611118] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-190' reached, erasing file
+[1495611126] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-191'
+[1495611126] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-191' reached, erasing file
+[1495611134] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-192'
+[1495611134] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-192' reached, erasing file
+[1495611142] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-193'
+[1495611142] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-193' reached, erasing file
+[1495611150] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-194'
+[1495611150] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-194' reached, erasing file
+[1495611158] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-195'
+[1495611158] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-195' reached, erasing file
+[1495611166] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-196'
+[1495611166] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-196' reached, erasing file
+[1495611174] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-197'
+[1495611174] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-197' reached, erasing file
+[1495611182] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-198'
+[1495611182] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-198' reached, erasing file
+[1495611190] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-199'
+[1495611190] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-199' reached, erasing file
+[1495611198] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-200'
+[1495611198] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-200' reached, erasing file
+[1495611206] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-201'
+[1495611206] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-201' reached, erasing file
+[1495611214] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-202'
+[1495611214] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-202' reached, erasing file
+[1495611222] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-203'
+[1495611222] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-203' reached, erasing file
+[1495611230] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-204'
+[1495611230] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-204' reached, erasing file
+[1495611238] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-205'
+[1495611238] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-205' reached, erasing file
+[1495611246] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-206'
+[1495611246] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-206' reached, erasing file
+[1495611254] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-207'
+[1495611254] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-207' reached, erasing file
+[1495611262] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-208'
+[1495611262] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-208' reached, erasing file
+[1495611270] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-209'
+[1495611270] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-209' reached, erasing file
+[1495611278] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-210'
+[1495611278] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-210' reached, erasing file
+[1495611286] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-211'
+[1495611286] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-211' reached, erasing file
+[1495611294] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-212'
+[1495611294] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-212' reached, erasing file
+[1495611302] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-213'
+[1495611302] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-213' reached, erasing file
+[1495611310] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-214'
+[1495611310] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-214' reached, erasing file
+[1495611318] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-215'
+[1495611318] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-215' reached, erasing file
+[1495611326] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-216'
+[1495611326] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-216' reached, erasing file
+[1495611334] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-217'
+[1495611334] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-217' reached, erasing file
+[1495611342] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-218'
+[1495611342] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-218' reached, erasing file
+[1495611350] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-219'
+[1495611350] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-219' reached, erasing file
+[1495611358] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-220'
+[1495611358] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-220' reached, erasing file
+[1495611366] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-221'
+[1495611366] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-221' reached, erasing file
+[1495611374] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-222'
+[1495611374] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-222' reached, erasing file
+[1495611382] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-223'
+[1495611382] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-223' reached, erasing file
+[1495611390] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-224'
+[1495611390] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-224' reached, erasing file
+[1495611398] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-225'
+[1495611398] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-225' reached, erasing file
+[1495611406] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-226'
+[1495611406] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-226' reached, erasing file
+[1495611414] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-227'
+[1495611414] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-227' reached, erasing file
+[1495611422] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-228'
+[1495611422] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-228' reached, erasing file
+[1495611430] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-229'
+[1495611430] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-229' reached, erasing file
+[1495611438] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-230'
+[1495611438] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-230' reached, erasing file
+[1495611446] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-231'
+[1495611446] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-231' reached, erasing file
+[1495611454] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-232'
+[1495611454] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-232' reached, erasing file
+[1495611462] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-233'
+[1495611462] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-233' reached, erasing file
+[1495611470] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-234'
+[1495611470] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-234' reached, erasing file
+[1495611478] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-235'
+[1495611478] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-235' reached, erasing file
+[1495611486] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-236'
+[1495611486] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-236' reached, erasing file
+[1495611494] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-237'
+[1495611494] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-237' reached, erasing file
+[1495611502] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-238'
+[1495611502] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-238' reached, erasing file
+[1495611510] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-239'
+[1495611510] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-239' reached, erasing file
+[1495611518] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-240'
+[1495611518] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-240' reached, erasing file
+[1495611526] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-241'
+[1495611526] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-241' reached, erasing file
+[1495611534] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-242'
+[1495611534] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-242' reached, erasing file
+[1495611542] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-243'
+[1495611542] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-243' reached, erasing file
+[1495611550] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-244'
+[1495611550] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-244' reached, erasing file
+[1495611558] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-245'
+[1495611558] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-245' reached, erasing file
+[1495611566] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-246'
+[1495611566] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-246' reached, erasing file
+[1495611574] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-247'
+[1495611574] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-247' reached, erasing file
+[1495611582] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-248'
+[1495611582] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-248' reached, erasing file
+[1495611590] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-249'
+[1495611590] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-249' reached, erasing file
+[1495611598] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-250'
+[1495611598] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-250' reached, erasing file
+[1495611606] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-251'
+[1495611606] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-251' reached, erasing file
+[1495611614] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-252'
+[1495611614] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-252' reached, erasing file
+[1495611622] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-253'
+[1495611622] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-253' reached, erasing file
+[1495611630] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-254'
+[1495611630] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-254' reached, erasing file
+[1495611638] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-255'
+[1495611638] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-255' reached, erasing file
+[1495611646] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-256'
+[1495611646] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-256' reached, erasing file
+[1495611654] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-257'
+[1495611654] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-257' reached, erasing file
+[1495611662] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-258'
+[1495611662] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-258' reached, erasing file
+[1495611670] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-259'
+[1495611670] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-259' reached, erasing file
+[1495611678] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-260'
+[1495611678] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-260' reached, erasing file
+[1495611686] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-261'
+[1495611686] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-261' reached, erasing file
+[1495611694] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-262'
+[1495611694] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-262' reached, erasing file
+[1495611702] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-263'
+[1495611702] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-263' reached, erasing file
+[1495611710] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-264'
+[1495611710] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-264' reached, erasing file
+[1495611718] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-265'
+[1495611718] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-265' reached, erasing file
+[1495611726] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-266'
+[1495611726] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-266' reached, erasing file
+[1495611734] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-267'
+[1495611734] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-267' reached, erasing file
+[1495611742] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-268'
+[1495611742] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-268' reached, erasing file
+[1495611750] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-269'
+[1495611750] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-269' reached, erasing file
+[1495611758] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-270'
+[1495611758] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-270' reached, erasing file
+[1495611766] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-271'
+[1495611766] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-271' reached, erasing file
+[1495611774] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-272'
+[1495611774] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-272' reached, erasing file
+[1495611782] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-273'
+[1495611782] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-273' reached, erasing file
+[1495611790] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-274'
+[1495611790] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-274' reached, erasing file
+[1495611798] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-275'
+[1495611798] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-275' reached, erasing file
+[1495611806] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-276'
+[1495611806] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-276' reached, erasing file
+[1495611814] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-277'
+[1495611814] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-277' reached, erasing file
+[1495611822] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-278'
+[1495611822] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-278' reached, erasing file
+[1495611830] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-279'
+[1495611830] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-279' reached, erasing file
+[1495611838] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-280'
+[1495611838] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-280' reached, erasing file
+[1495611846] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-281'
+[1495611846] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-281' reached, erasing file
+[1495611854] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-282'
+[1495611854] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-282' reached, erasing file
+[1495611862] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-283'
+[1495611862] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-283' reached, erasing file
+[1495611870] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-284'
+[1495611870] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-284' reached, erasing file
+[1495611878] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-285'
+[1495611878] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-285' reached, erasing file
+[1495611886] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-286'
+[1495611886] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-286' reached, erasing file
+[1495611894] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-287'
+[1495611894] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-287' reached, erasing file
+[1495611902] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-288'
+[1495611902] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-288' reached, erasing file
+[1495611910] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-289'
+[1495611910] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-289' reached, erasing file
+[1495611918] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-290'
+[1495611918] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-290' reached, erasing file
+[1495611926] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-291'
+[1495611926] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-291' reached, erasing file
+[1495611934] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-292'
+[1495611934] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-292' reached, erasing file
+[1495611942] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-293'
+[1495611942] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-293' reached, erasing file
+[1495611950] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-294'
+[1495611950] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-294' reached, erasing file
+[1495611958] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-295'
+[1495611958] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-295' reached, erasing file
+[1495611966] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-296'
+[1495611966] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-296' reached, erasing file
+[1495611974] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-297'
+[1495611974] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-297' reached, erasing file
+[1495611982] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-298'
+[1495611982] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-298' reached, erasing file
+[1495611990] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-299'
+[1495611990] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-299' reached, erasing file
+[1495611998] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-300'
+[1495611998] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-300' reached, erasing file
+[1495612006] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-301'
+[1495612006] info:    file: end of file '/var/lib/centreon-broker//central-rrd.queue.central-rrd-input-301' reached, erasing file
+[1495612012] info:    main: termination request received by process id 255 with real user id 495
+[1495612012] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.unprocessed'
+[1495612012] info:    file: opening new file '/var/lib/centreon-broker//central-rrd.unprocessed.new'
+Centreon Broker 3.0.7 log file closed
