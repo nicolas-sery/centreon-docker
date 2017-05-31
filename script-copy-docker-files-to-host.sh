@@ -1,9 +1,8 @@
 #!/bin/bash
 
+BASE_DIRECTORY="/home/centreon/mapped-folder"
 
-BASE_DIRECTORY="/home/build-local-image/docker-files"
-
-DIRECTORIES="/etc/centreon /etc/centreon-broker /etc/centreon-engine /usr/share/centreon /var/lib/mysql /var/lib/centreon /var/lib/centreon-broker /var/lib/net-snmp /var/log/centreon /var/log/centreon-broker /var/log/centreon-engine"
+DIRECTORIES="/etc/centreon /etc/centreon-broker /etc/centreon-engine /usr/share/centreon /var/lib/mysql /var/lib/centreon /var/lib/centreon-broker /var/lib/net-snmp /var/log/centreon /var/log/centreon-broker /var/log/centreon-engine /usr/local/nagvis /usr/local/src/centreon-nagvis-backend /var/lib/php /var/log/httpd"
 
 #
 # Affichage d'un log d'erreur et ajout dans la variable globale pour l'envoyer par mail

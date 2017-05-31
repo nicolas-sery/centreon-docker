@@ -1,20 +1,24 @@
 centreon:
   container_name: centreon-docker
-  image: centreon-docker:v54
+  image: centreon-docker:v57
   restart: on-failure
   ports:
     - "8082:80"
 #  privileged: true
 #  volumes:
-#    - /home/build-local-image/docker-files/etc/centreon:/etc/centreon:rw
-#    - /home/build-local-image/docker-files/etc/centreon-broker:/etc/centreon-broker:rw
-#    - /home/build-local-image/docker-files/etc/centreon-engine:/etc/centreon-engine:rw
-#    - /home/build-local-image/docker-files/usr/share/centreon:/usr/share/centreon:rw
-#    - /home/build-local-image/docker-files/var/lib/mysql:/var/lib/mysql:rw
-#    - /home/build-local-image/docker-files/var/lib/centreon:/var/lib/centreon:rw
-#    - /home/build-local-image/docker-files/var/lib/centreon-broker:/var/lib/centreon-broker:rw
-#    - /home/build-local-image/docker-files/var/lib/net-snmp:/var/lib/net-snmp:rw
-#    - /home/build-local-image/docker-files/var/log/centreon:/var/log/centreon:rw
-#    - /home/build-local-image/docker-files/var/log/centreon-broker:/var/log/centreon-broker:rw
-#    - /home/build-local-image/docker-files/var/log/centreon-engine:/var/log/centreon-engine:rw
+#    - /home/centreon/mapped-folder/etc/centreon:/etc/centreon:rw
+#    - /home/centreon/mapped-folder/etc/centreon-broker:/etc/centreon-broker:rw
+#    - /home/centreon/mapped-folder/etc/centreon-engine:/etc/centreon-engine:rw
+#    - /home/centreon/mapped-folder/usr/share/centreon:/usr/share/centreon:rw
+#    - /home/centreon/mapped-folder/var/lib/mysql:/var/lib/mysql:rw
+#    - /home/centreon/mapped-folder/var/lib/centreon:/var/lib/centreon:rw
+#    - /home/centreon/mapped-folder/var/lib/centreon-broker:/var/lib/centreon-broker:rw
+#    - /home/centreon/mapped-folder/var/lib/net-snmp:/var/lib/net-snmp:rw
+#    - /home/centreon/mapped-folder/var/log/centreon:/var/log/centreon:rw
+#    - /home/centreon/mapped-folder/var/log/centreon-broker:/var/log/centreon-broker:rw
+#    - /home/centreon/mapped-folder/var/log/centreon-engine:/var/log/centreon-engine:rw
+#    - /home/centreon/mapped-folder/usr/local/nagvis:/usr/local/nagvis:rw
+#    - /home/centreon/mapped-folder/usr/local/src/centreon-nagvis-backend:/usr/local/src/centreon-nagvis-backend:rw
+#    - /home/centreon/mapped-folder/var/lib/php:/var/lib/php:rw
+#    - /home/centreon/mapped-folder/var/log/httpd:/var/log/httpd:rw
 

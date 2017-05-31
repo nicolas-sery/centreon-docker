@@ -22,3 +22,12 @@ chmod 775 /var/log/centreon-broker
 chown -R centreon-broker:centreon-broker /var/log/centreon-broker
 chmod 755 /var/log/centreon-engine
 chown -R centreon-engine:centreon-engine /var/log/centreon-engine
+chmod 755 /usr/local/nagvis
+chown -R apache:apache /usr/local/nagvis
+chmod 755 /usr/local/src/centreon-nagvis-backend
+chown -R root:root /usr/local/src/centreon-nagvis-backend
+chmod 755 /var/lib/php
+chown -R root:root /var/lib/php
+chmod 700 /var/log/httpd
+chown -R root:root /var/log/httpd
+
