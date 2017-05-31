@@ -3,6 +3,9 @@
 passRoot=$( cat /tmp/pass-mysql-root )
 passCentreon=$( cat /tmp/pass-mysql-centreon )
 
+echo -e "The root password is:      \033[31m $passRoot \033[0m"
+echo -e "The centreon password is:  \033[32m $passCentreon \033[0m"
+
 mysql -u root <<EOF
 CREATE USER "centreon"@"localhost" IDENTIFIED BY "$passCentreon";
 GRANT ALL PRIVILEGES ON centreon . * TO "centreon"@"localhost";

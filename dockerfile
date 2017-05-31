@@ -84,18 +84,3 @@ CMD ["/tmp/script-init.sh"]
 # Port a exposer
 #EXPOSE 22 80
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
