@@ -1,6 +1,6 @@
 centreon:
   container_name: centreon-docker
-  image: centreon-docker:v64
+  image: centreon-docker:v67
   restart: on-failure
   ports:
     - "8082:80"
