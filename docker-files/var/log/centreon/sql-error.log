@@ -1,1 +1,0 @@
-2017-05-24 09:45|0|0|DB Error: syntax error QUERY : SELECT \* FROM mod_ppm_host_service_relation WHERE pluginpack_id =  AND host_id = 12 AND service_id = 48
