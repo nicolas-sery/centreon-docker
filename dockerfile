@@ -89,8 +89,5 @@ RUN chmod +x /tmp/script-keep-awake.sh
 # Execution des scripts
 ADD scripts/script-init.sh /tmp/script-init.sh
 RUN chmod +x /tmp/script-init.sh
-CMD ["/tmp/script-init.sh"]
-
-# Port a exposer
-#EXPOSE 22 80
+CMD ["/tmp/script-keep-awake.sh"]
 

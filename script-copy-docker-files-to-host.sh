@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BASE_DIRECTORY="/home/centreon/mapped-folder-test"
+BASE_DIRECTORY="/home/centreon/mapped-folder"
 
 DIRECTORIES="/etc/centreon /etc/centreon-broker /etc/centreon-engine /etc/pki /etc/httpd/conf.d /usr/share/centreon /var/lib/mysql /var/lib/centreon /var/lib/centreon-broker /var/lib/net-snmp /var/log/centreon /var/log/centreon-broker /var/log/centreon-engine /var/lib/php /var/log/httpd /usr/local/nagvis /usr/local/src/centreon-nagvis-backend /root/"
 
