@@ -1,16 +1,13 @@
-# centreon-docker
+# Install centreon 2.8.8 in a docker with data persistence
 
-It's a working progress. I will update this file and add some usefull comment as soon as everything works as I want to.
-
+`The server running docker is an Ubuntu 16.04`
 Install docker.
 
     apt-get install git docker docker-compose
-
 Create the work directory and move inside.
 
     mkdir /home/centreon-docker
     cd /home/centreon-docker
-
 Clone the reposetory.
 
     git init
