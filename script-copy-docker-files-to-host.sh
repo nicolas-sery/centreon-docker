@@ -1,8 +1,8 @@
 #!/bin/bash
 
-BASE_DIRECTORY="/home/centreon/mapped-folder"
+BASE_DIRECTORY="/home/centreon/mapped-folder-test"
 
-DIRECTORIES="/etc/centreon /etc/centreon-broker /etc/centreon-engine /etc/pki /etc/httpd/conf.d /etc/snmp/ /usr/share/centreon /var/lib/mysql /var/lib/centreon /var/lib/centreon-broker /var/lib/net-snmp /var/log/centreon /var/log/centreon-broker /var/log/centreon-engine /var/lib/php /var/log/httpd /usr/local/nagvis /usr/local/src/centreon-nagvis-backend"
+DIRECTORIES="/etc/centreon /etc/centreon-broker /etc/centreon-engine /etc/pki /etc/httpd/conf.d /usr/share/centreon /var/lib/mysql /var/lib/centreon /var/lib/centreon-broker /var/lib/net-snmp /var/log/centreon /var/log/centreon-broker /var/log/centreon-engine /var/lib/php /var/log/httpd /usr/local/nagvis /usr/local/src/centreon-nagvis-backend /root/"
 
 #
 # Affichage d'un log d'erreur et ajout dans la variable globale pour l'envoyer par mail
@@ -46,8 +46,8 @@ for directory in ${DIRECTORIES}; do
 done
 
 echoInfo "Get the container id"
-#DOCKER_ID=`docker ps | grep 'centreon-docker:v2' | awk '{print $1}'`
-DOCKER_ID=$1
+DOCKER_ID=`docker ps | grep 'centreon-docker' | awk '{print $1}'`
+#DOCKER_ID=$1
 echoSuccess "The container id is ${DOCKER_ID}"
 
 DOCKER_VOLUMES="  volumes:\n"

@@ -65,7 +65,13 @@ RUN chmod +x /tmp/script-set-bash_history.sh
 ADD scripts/script-set-folder-right.sh /tmp/script-set-folder-right.sh
 RUN chmod +x /tmp/script-set-folder-right.sh
 
-# Ajout du script demarrage et de status des services (Apache, Centreon, SNMP, MySQL…)
+# Ajout des scripts de gestion des services (Apache, Centreon, SNMP, MySQL…)
+ADD scripts/script-restart-services.sh /tmp/script-restart-services.sh
+RUN chmod +x /tmp/script-restart-services.sh
+ADD scripts/script-stop-services.sh /tmp/script-stop-services.sh
+RUN chmod +x /tmp/script-stop-services.sh
+ADD scripts/script-status-services.sh /tmp/script-status-services.sh
+RUN chmod +x /tmp/script-status-services.sh
 ADD scripts/script-start-services.sh /tmp/script-start-services.sh
 RUN chmod +x /tmp/script-start-services.sh
 

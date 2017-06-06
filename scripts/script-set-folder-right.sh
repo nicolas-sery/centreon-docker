@@ -62,9 +62,7 @@ chown root:root /etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-Testing-6
 chown root:root /etc/pki/rpm-gpg/RPM-GPG-KEY-CES
 chown root:root /etc/pki/rsyslog
 chown root:root /etc/pki/tls
-chown root:root /etc/pki/tls/cert.pem -> certs/ca-bundle.crt
 chown root:root /etc/pki/tls/certs
-chown root:root /etc/pki/tls/certs/ca-bundle.crt
 chown root:root /etc/pki/tls/certs/ca-bundle.trust.crt
 chown root:root /etc/pki/tls/certs/make-dummy-cert
 chown root:root /etc/pki/tls/certs/Makefile
@@ -83,8 +81,6 @@ chown apache:apache /etc/httpd/conf.d/nagvis.conf
 chown root:root /etc/httpd/conf.d/php.conf
 chown root:root /etc/httpd/conf.d/README
 chown root:root /etc/httpd/conf.d/welcome.conf
-
-chown root:root /etc/snmp/snmpd.conf
 
 chown centreon:centreon /etc/centreon/conf.pm
 chown centreon:centreon /etc/centreon/instCentCore.conf
@@ -4047,5 +4043,3 @@ chown apache:apache /usr/local/nagvis/var/tmpl/cache
 chown apache:apache /usr/local/nagvis/var/tmpl/compile
 chown root:root /usr/local/src/centreon-nagvis-backend/README
 chown root:apache /var/lib/php/session
-chown root:root /var/log/httpd/access_log
-chown root:root /var/log/httpd/error_log
