@@ -1,6 +1,7 @@
 # Install centreon 2.8.8 in a docker with data persistence
 
 `The server running docker is an Ubuntu 16.04`
+
 Install docker.
 
     apt-get install git docker docker-compose
