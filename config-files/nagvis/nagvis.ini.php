@@ -87,7 +87,7 @@ dbhost="localhost"
 dbport=3306
 dbname="centreon_storage"
 dbuser="centreon"
-dbpass="9?Ujg5a8aZ"
+dbpass="7vUrg5a7ad"
 dbinstancename="default"
 htmlcgi="/centreon"
 

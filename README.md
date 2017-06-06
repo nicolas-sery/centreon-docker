@@ -40,4 +40,5 @@ Now it's time to set the right to the maped folders, start the services and mysq
     docker exec -ti centreon-docker bash /tmp/script-set-folder-right.sh
     docker exec -ti centreon-docker bash /tmp/script-start-services.sh
     docker exec -ti centreon-docker bash /tmp/script-set-mysql.sh
+    docker exec -ti centreon-docker bash /tmp/script-install-nagvis-module.sh
 Centreon is now available at http://<your-server>/centreon/. The installation has to be finish throw the web UI.

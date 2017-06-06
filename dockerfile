@@ -77,10 +77,10 @@ RUN chmod +x /tmp/script-start-services.sh
 
 ## Nagvis ##
 
-# Ajout du script d'installation de nagvis et du fichier de configuration
+# Ajout du script d'installation de nagvis et des fichiers de configuration
 ADD scripts/script-install-nagvis.sh /tmp/script-install-nagvis.sh
-ADD config-files/nagvis.ini.php /tmp/nagvis.ini.php
-RUN chmod +x /tmp/script-install-nagvis.sh
+ADD config-files/nagvis/ /tmp/nagvis/
+RUN chmod +x /tmp/nagvis/script-install-nagvis.sh
 
 # Ajout du script keep-awake qui permet de laisser le docker tourner (solution temporaire)
 ADD scripts/script-keep-awake.sh /tmp/script-keep-awake.sh

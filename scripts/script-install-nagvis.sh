@@ -18,4 +18,4 @@ git clone https://github.com/centreon/centreon-nagvis-backend.git
 mv centreon-nagvis-backend/GlobalBackendcentreonbroker.php /usr/local/nagvis/share/server/core/classes/
 
 echo -e "install-nagvis.sh is setting up the configuration file in \033[33m /usr/local/nagvis/etc/nagvis.ini.php \033[0m"
-cp /tmp/nagvis.ini.php /usr/local/nagvis/etc/
+cp /tmp/nagvis/nagvis.ini.php /usr/local/nagvis/etc/
