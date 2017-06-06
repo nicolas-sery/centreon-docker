@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo -e "The \033[33m /tmp/script-set-mysql\033[0m is now running"
 # look for the passwords in the conf file
 passRoot=$( cat /tmp/pass-mysql-root )
 passCentreon=$( cat /tmp/pass-mysql-centreon )

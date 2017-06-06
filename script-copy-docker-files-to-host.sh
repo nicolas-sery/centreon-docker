@@ -2,7 +2,7 @@
 
 BASE_DIRECTORY="/home/centreon/mapped-folder"
 
-DIRECTORIES="/etc/centreon /etc/centreon-broker /etc/centreon-engine /usr/share/centreon /var/lib/mysql /var/lib/centreon /var/lib/centreon-broker /var/lib/net-snmp /var/log/centreon /var/log/centreon-broker /var/log/centreon-engine /usr/local/nagvis /usr/local/src/centreon-nagvis-backend /var/lib/php /var/log/httpd"
+DIRECTORIES="/etc/centreon /etc/centreon-broker /etc/centreon-engine /etc/pki /etc/httpd/conf.d /etc/snmp/ /usr/share/centreon /var/lib/mysql /var/lib/centreon /var/lib/centreon-broker /var/lib/net-snmp /var/log/centreon /var/log/centreon-broker /var/log/centreon-engine /var/lib/php /var/log/httpd /usr/local/nagvis /usr/local/src/centreon-nagvis-backend"
 
 #
 # Affichage d'un log d'erreur et ajout dans la variable globale pour l'envoyer par mail
@@ -87,14 +87,5 @@ echo -e "\033[31m#########################################\033[0m"
 echo -e "\033[31m \033[0m"
 
 echo -e "${DOCKER_VOLUMES}"
-
-echo -e "\033[31m \033[0m"
-echo -e "\033[31m#########################################\033[0m"
-echo -e "\033[31m#    ADD THIS IN YOUR /tmp/script.sh     \033[0m"
-echo -e "\033[31m#          IN YOUR CONTAINER             \033[0m"
-echo -e "\033[31m#                   💩                   \033[0m"
-echo -e "\033[31m#########################################\033[0m"
-echo -e "\033[31m \033[0m"
-
-echo -e "${DOCKER_COMMANDS}"
 echo ""
+
