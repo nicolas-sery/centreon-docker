@@ -10,7 +10,6 @@ RUN chmod +x /tmp/scripts/*
 ADD config-files/ /tmp/config-files/
 
 # Ajout du depot mariadb
-#ADD config-files/MariaDB.repo /tmp/MariaDB.repo
 RUN cp /tmp/config-files/MariaDB.repo /etc/yum.repos.d/MariaDB.repo
 
 # Installation de Mariadb
@@ -30,12 +29,6 @@ RUN yum -y install rrdtool
 
 # Installation de wget
 RUN yum -y install wget
-
-# Configuration de MySQL
-#ADD config-files/pass-mysql-root /tmp/pass-mysql-root
-#ADD config-files/pass-mysql-centreon /tmp/pass-mysql-centreon
-#ADD scripts/script-set-mysql.sh /tmp/script-set-mysql.sh
-#RUN chmod +x /tmp/script-set-mysql.sh
 
 ## Fin des prerequis ##
 
@@ -64,33 +57,4 @@ RUN echo "date.timezone = Europe/Paris" > /etc/php.d/php-timezone.ini
 
 CMD ["/tmp/scripts/script-keep-awake.sh"]
 
-# Ajout du script de creation de l'historique de commande
-#ADD scripts/script-set-bash_history.sh /tmp/script-set-bash_history.sh
-#RUN chmod +x /tmp/script-set-bash_history.sh
-
-# Ajout du script du changement de droit pour les dossiers mappes
-#ADD scripts/script-set-folder-right.sh /tmp/script-set-folder-right.sh
-#RUN chmod +x /tmp/script-set-folder-right.sh
-
-# Ajout des scripts de gestion des services (Apache, Centreon, SNMP, MySQL…)
-#ADD scripts/script-restart-services.sh /tmp/script-restart-services.sh
-#RUN chmod +x /tmp/script-restart-services.sh
-#ADD scripts/script-stop-services.sh /tmp/script-stop-services.sh
-#RUN chmod +x /tmp/script-stop-services.sh
-#ADD scripts/script-status-services.sh /tmp/script-status-services.sh
-#RUN chmod +x /tmp/script-status-services.sh
-#ADD scripts/script-start-services.sh /tmp/script-start-services.sh
-#RUN chmod +x /tmp/script-start-services.sh
-
-## Nagvis ##
-
-# Ajout du script d'installation de nagvis et des fichiers de configuration
-#ADD scripts/script-install-nagvis.sh /tmp/script-install-nagvis.sh
-#ADD config-files/nagvis/ /tmp/nagvis/
-#RUN chmod +x /tmp/nagvis/script-install-nagvis.sh
-
-# Ajout du script keep-awake qui permet de laisser le docker tourner (solution temporaire)
-#ADD scripts/script-keep-awake.sh /tmp/script-keep-awake.sh
-#RUN chmod +x /tmp/script-keep-awake.sh
-#CMD ["/tmp/script-keep-awake.sh"]
 

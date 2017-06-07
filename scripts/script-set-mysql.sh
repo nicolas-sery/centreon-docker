@@ -1,13 +1,14 @@
 #!/bin/bash
 
-echo -e "The \033[33m /tmp/script-set-mysql\033[0m is now running"
+echo -e "The \033[33m /tmp/scripts/script-set-mysql.sh \033[0m is now running"
 # look for the passwords in the conf file
-passRoot=$( cat /tmp/pass-mysql-root )
-passCentreon=$( cat /tmp/pass-mysql-centreon )
+passRoot=$( cat /tmp/config-files/pass-mysql-root )
+passCentreon=$( cat /tmp/config-files/pass-mysql-centreon )
 
 # print those passwords
 echo -e "The root password is:      \033[31m $passRoot \033[0m"
 echo -e "The centreon password is:  \033[32m $passCentreon \033[0m"
+echo ""
 
 # set those passwords in the database
 mysql -u root <<EOF

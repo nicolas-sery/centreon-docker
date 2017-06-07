@@ -1,6 +1,6 @@
 centreon:
   container_name: centreon-docker
-  image: centreon-docker:v77
+  image: centreon-docker:v81
   restart: on-failure
   ports:
     - "80:80"
@@ -13,7 +13,7 @@ centreon:
     - /home/centreon/mapped-folder/etc/pki/:/etc/pki/:rw
     - /home/centreon/mapped-folder/root/:/root/:rw
     - /home/centreon/mapped-folder/usr/local/nagvis:/usr/local/nagvis:rw
-    - /home/centreon/mapped-folder/usr/local/src/centreon-nagvis-backend:/usr/local/src/centreon-nagvis-backend:rw
+    - /home/centreon/mapped-folder/usr/local/src/:/usr/local/src/:rw
     - /home/centreon/mapped-folder/usr/share/centreon:/usr/share/centreon:rw
     - /home/centreon/mapped-folder/var/lib/centreon:/var/lib/centreon:rw
     - /home/centreon/mapped-folder/var/log/centreon:/var/log/centreon:rw

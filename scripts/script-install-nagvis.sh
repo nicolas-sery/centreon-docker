@@ -16,6 +16,7 @@ echo -e "install-nagvis.sh is installing the Centreon backend by clonning this r
 cd /usr/local/src
 git clone https://github.com/centreon/centreon-nagvis-backend.git
 mv centreon-nagvis-backend/GlobalBackendcentreonbroker.php /usr/local/nagvis/share/server/core/classes/
+chown apache:apache /usr/local/nagvis/share/server/core/classes/GlobalBackendcentreonbroker.php
 
 echo -e "install-nagvis.sh is setting up the configuration file in \033[33m /usr/local/nagvis/etc/nagvis.ini.php \033[0m"
-cp /tmp/nagvis/nagvis.ini.php /usr/local/nagvis/etc/
+cp /tmp/config-files/nagvis/nagvis.ini.php /usr/local/nagvis/etc/
