@@ -85,9 +85,5 @@ RUN chmod +x /tmp/nagvis/script-install-nagvis.sh
 # Ajout du script keep-awake qui permet de laisser le docker tourner (solution temporaire)
 ADD scripts/script-keep-awake.sh /tmp/script-keep-awake.sh
 RUN chmod +x /tmp/script-keep-awake.sh
-
-# Execution des scripts
-ADD scripts/script-init.sh /tmp/script-init.sh
-RUN chmod +x /tmp/script-init.sh
 CMD ["/tmp/script-keep-awake.sh"]
 
