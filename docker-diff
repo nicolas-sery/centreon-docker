@@ -1,0 +1,8 @@
+C /usr
+C /var
+C /var/lib
+C /var/lib/rpm
+C /var/lib/rpm/__db.002
+C /var/lib/rpm/__db.004
+C /var/lib/rpm/__db.001
+C /var/lib/rpm/__db.003

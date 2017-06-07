@@ -9,7 +9,7 @@ centreon:
     - /home/centreon/mapped-folder/etc/centreon:/etc/centreon:rw
     - /home/centreon/mapped-folder/etc/centreon-broker:/etc/centreon-broker:rw
     - /home/centreon/mapped-folder/etc/centreon-engine:/etc/centreon-engine:rw
-    - /home/centreon/mapped-folder/etc/httpd/conf.d/:/etc/httpd/conf.d/:rw
+    - /home/centreon/mapped-folder/etc/httpd/conf.d/:/etc/httpd/conf.d:rw
     - /home/centreon/mapped-folder/etc/pki/:/etc/pki/:rw
     - /home/centreon/mapped-folder/root/:/root/:rw
     - /home/centreon/mapped-folder/usr/local/nagvis:/usr/local/nagvis:rw
