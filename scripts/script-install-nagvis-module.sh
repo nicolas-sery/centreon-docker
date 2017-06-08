@@ -1,11 +1,12 @@
 #!/bin/bash
 
+echo ""
 echo -e "install-nagvis-module.sh is installing the centreon module \033[33m centreon-nagvis-1.1.1.tar.gz \033[0m"
 echo ""
 cd /usr/local/src
 wget https://s3-eu-west-1.amazonaws.com/centreon-download/public/Modules/centreon-nagvis/centreon-nagvis-1.1.1.tar.gz
 tar xzf centreon-nagvis-1.1.1.tar.gz
-cp /tmp/config-files/nagvis/install.sql /usr/local/src/centreon-nagvis-1.1.1/www/modules/centreon-nagvis/sql/install.sql
+cp /tmp/config-files/nagvis/install.sql /usr/local/src/cezntreon-nagvis-1.1.1/www/modules/centreon-nagvis/sql/install.sql
 cp /tmp/config-files/nagvis/nagvis.ihtml /usr/local/src/centreon-nagvis-1.1.1/www/modules/centreon-nagvis/nagvis.ihtml
 mv /usr/local/src/centreon-nagvis-1.1.1/www/modules/centreon-nagvis /usr/share/centreon/www/modules/
 

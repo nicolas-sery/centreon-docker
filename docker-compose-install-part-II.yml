@@ -23,4 +23,3 @@ centreon:
     - /home/centreon/mapped-folder/var/log/httpd:/var/log/httpd:rw
     - /home/centreon/mapped-folder/var/lib/mysql:/var/lib/mysql:rw
     - /home/centreon/mapped-folder/var/lib/php:/var/lib/php:rw
-  command: bash /tmp/scripts/script-keep-awake-restart.sh

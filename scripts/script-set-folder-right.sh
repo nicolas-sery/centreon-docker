@@ -3331,14 +3331,6 @@ chown apache:apache /usr/local/nagvis/etc/geomap/locations.xml
 chown apache:apache /usr/local/nagvis/etc/geomap/settings.xml
 chown apache:apache /usr/local/nagvis/etc/geomap/viewpoints.xml
 chown apache:apache /usr/local/nagvis/etc/maps
-chown apache:apache /usr/local/nagvis/etc/maps/demo-automap2.cfg
-chown apache:apache /usr/local/nagvis/etc/maps/demo-automap.cfg
-chown apache:apache /usr/local/nagvis/etc/maps/demo-geomap.cfg
-chown apache:apache /usr/local/nagvis/etc/maps/demo-germany.cfg
-chown apache:apache /usr/local/nagvis/etc/maps/demo-ham-racks.cfg
-chown apache:apache /usr/local/nagvis/etc/maps/demo-load.cfg
-chown apache:apache /usr/local/nagvis/etc/maps/demo-muc-srv1.cfg
-chown apache:apache /usr/local/nagvis/etc/maps/demo-overview.cfg
 chown apache:apache /usr/local/nagvis/etc/nagvis.ini.php
 chown apache:apache /usr/local/nagvis/etc/nagvis.ini.php-sample
 chown apache:apache /usr/local/nagvis/etc/perms.db-sample

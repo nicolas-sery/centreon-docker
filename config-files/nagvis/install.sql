@@ -7,7 +7,7 @@ INSERT INTO `topology` (`topology_id`, `topology_name`, `topology_parent`, `topo
 
 -- Insert options
 INSERT INTO `options` (`key`,`value`) VALUES ('centreon_nagvis_uri','/nagvis/frontend/nagvis-js/index.php');
-INSERT INTO `options` (`key`,`value`) VALUES ('centreon_nagvis_path','/usr/share/nagvis/share/');
+INSERT INTO `options` (`key`,`value`) VALUES ('centreon_nagvis_path','/usr/local/nagvis/share/');
 
 INSERT INTO `options` (`key`, `value`) VALUES ('centreon_nagvis_auth', 'single');
 INSERT INTO `options` (`key`, `value`) VALUES ('centreon_nagvis_single_user', 'centreon_nagvis');

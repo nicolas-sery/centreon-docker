@@ -49,10 +49,10 @@ function resizeMap() {
 
   /* Footer 
   height = height - jQuery('#footer').height() - 10;
-  height = height - jQuery('#contener').height();
+  height = height - jQuery('#contener').height();*/
   jQuery('#map').height(height);
 }
-*/
+
 jQuery(function() {
   resizeMap();
   jQuery('.select-map > select').change(loadMap);
