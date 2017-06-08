@@ -6,20 +6,20 @@ centreon:
     - "80:80"
   privileged: true
   volumes:
-    - /home/centreon/mapped-folder/etc/centreon:/etc/centreon:rw
-    - /home/centreon/mapped-folder/etc/centreon-broker:/etc/centreon-broker:rw
-    - /home/centreon/mapped-folder/etc/centreon-engine:/etc/centreon-engine:rw
-    - /home/centreon/mapped-folder/etc/httpd/conf.d/:/etc/httpd/conf.d:rw
-    - /home/centreon/mapped-folder/etc/pki/:/etc/pki/:rw
-    - /home/centreon/mapped-folder/root/:/root/:rw
-    - /home/centreon/mapped-folder/usr/local/nagvis:/usr/local/nagvis:rw
-    - /home/centreon/mapped-folder/usr/local/src/:/usr/local/src/:rw
-    - /home/centreon/mapped-folder/usr/share/centreon:/usr/share/centreon:rw
-    - /home/centreon/mapped-folder/var/lib/centreon:/var/lib/centreon:rw
-    - /home/centreon/mapped-folder/var/log/centreon:/var/log/centreon:rw
-    - /home/centreon/mapped-folder/var/lib/centreon-broker:/var/lib/centreon-broker:rw
-    - /home/centreon/mapped-folder/var/log/centreon-broker:/var/log/centreon-broker:rw
-    - /home/centreon/mapped-folder/var/log/centreon-engine:/var/log/centreon-engine:rw
-    - /home/centreon/mapped-folder/var/log/httpd:/var/log/httpd:rw
-    - /home/centreon/mapped-folder/var/lib/mysql:/var/lib/mysql:rw
-    - /home/centreon/mapped-folder/var/lib/php:/var/lib/php:rw
+    - /home/centreon/etc/centreon:/etc/centreon:rw
+    - /home/centreon/etc/centreon-broker:/etc/centreon-broker:rw
+    - /home/centreon/etc/centreon-engine:/etc/centreon-engine:rw
+    - /home/centreon/etc/httpd/conf.d/:/etc/httpd/conf.d:rw
+    - /home/centreon/etc/pki/:/etc/pki/:rw
+    - /home/centreon/root/:/root/:rw
+    - /home/centreon/usr/local/nagvis:/usr/local/nagvis:rw
+    - /home/centreon/usr/local/src/:/usr/local/src/:rw
+    - /home/centreon/usr/share/centreon:/usr/share/centreon:rw
+    - /home/centreon/var/lib/centreon:/var/lib/centreon:rw
+    - /home/centreon/var/log/centreon:/var/log/centreon:rw
+    - /home/centreon/var/lib/centreon-broker:/var/lib/centreon-broker:rw
+    - /home/centreon/var/log/centreon-broker:/var/log/centreon-broker:rw
+    - /home/centreon/var/log/centreon-engine:/var/log/centreon-engine:rw
+    - /home/centreon/var/log/httpd:/var/log/httpd:rw
+    - /home/centreon/var/lib/mysql:/var/lib/mysql:rw
+    - /home/centreon/var/lib/php:/var/lib/php:rw
