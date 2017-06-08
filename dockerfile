@@ -30,6 +30,9 @@ RUN yum -y install rrdtool
 # Installation de wget
 RUN yum -y install wget
 
+# Installation de nana
+RUN yum install -y nano
+
 ## Fin des prerequis ##
 
 # Installation du depot (centOS 6)

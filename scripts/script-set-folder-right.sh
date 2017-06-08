@@ -3744,7 +3744,7 @@ chown apache:apache /usr/local/nagvis/share/server/core/classes/CoreSQLiteHandle
 chown apache:apache /usr/local/nagvis/share/server/core/classes/CoreTemplateSystem.php
 chown apache:apache /usr/local/nagvis/share/server/core/classes/CoreUriHandler.php
 chown apache:apache /usr/local/nagvis/share/server/core/classes/CoreUserCfg.php
-chown root:root /usr/local/nagvis/share/server/core/classes/GlobalBackendcentreonbroker.php
+chown apache:apache /usr/local/nagvis/share/server/core/classes/GlobalBackendcentreonbroker.php
 chown apache:apache /usr/local/nagvis/share/server/core/classes/GlobalBackendInterface.php
 chown apache:apache /usr/local/nagvis/share/server/core/classes/GlobalBackendmkbi.php
 chown apache:apache /usr/local/nagvis/share/server/core/classes/GlobalBackendmklivestatus.php

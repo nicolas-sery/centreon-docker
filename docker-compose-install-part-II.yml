@@ -1,6 +1,6 @@
 centreon:
   container_name: centreon-docker
-  image: centreon-docker:v81
+  image: centreon-docker:v2
   restart: on-failure
   ports:
     - "80:80"
@@ -9,11 +9,11 @@ centreon:
     - /home/centreon/etc/centreon:/etc/centreon:rw
     - /home/centreon/etc/centreon-broker:/etc/centreon-broker:rw
     - /home/centreon/etc/centreon-engine:/etc/centreon-engine:rw
-    - /home/centreon/etc/httpd/conf.d/:/etc/httpd/conf.d:rw
-    - /home/centreon/etc/pki/:/etc/pki/:rw
-    - /home/centreon/root/:/root/:rw
+    - /home/centreon/etc/httpd/conf.d:/etc/httpd/conf.d:rw
+    - /home/centreon/etc/pki:/etc/pki:rw
+    - /home/centreon/root:/root:rw
     - /home/centreon/usr/local/nagvis:/usr/local/nagvis:rw
-    - /home/centreon/usr/local/src/:/usr/local/src/:rw
+    - /home/centreon/usr/local/src:/usr/local/src:rw
     - /home/centreon/usr/share/centreon:/usr/share/centreon:rw
     - /home/centreon/var/lib/centreon:/var/lib/centreon:rw
     - /home/centreon/var/log/centreon:/var/log/centreon:rw
