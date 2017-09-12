@@ -1,0 +1,11 @@
+[Unit]
+Description=Run the script to get ownership and permission from the mapped folder used by the docker centreon
+
+[Timer]
+;OnBootSec=10min
+OnCalendar=*-*-* 04:00:00
+Unit=cron_backup-mysql.service
+
+[Install]
+WantedBy=multi-user.target
+

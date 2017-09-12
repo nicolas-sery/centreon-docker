@@ -1,0 +1,5 @@
+[Unit]
+Description=Run the script to get ownership and permission from the mapped folder used by the docker centreon
+
+[Service]
+ExecStart=/bin/bash /usr/local/bin/cron_backup-mysql.sh

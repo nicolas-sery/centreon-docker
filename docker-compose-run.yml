@@ -1,6 +1,6 @@
 centreon:
   container_name: centreon-docker
-  image: centreon-docker:v2
+  image: centreon-docker_commit:v11
   restart: on-failure
   ports:
     - "80:80"
@@ -23,4 +23,5 @@ centreon:
     - /home/centreon/var/log/httpd:/var/log/httpd:rw
     - /home/centreon/var/lib/mysql:/var/lib/mysql:rw
     - /home/centreon/var/lib/php:/var/lib/php:rw
+    - /home/centreon/tmp/scripts:/tmp/scripts:rw
   command: /tmp/scripts/script-keep-awake-restart.sh
