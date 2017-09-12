@@ -1,5 +1,6 @@
 # Install centreon 2.8.8 in a docker with data persistence
 
+Tue Sep 12 12:51:19 CEST 2017
 `The server running docker is an Ubuntu 16.04`
 
 Install docker.
