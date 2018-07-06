@@ -1,5 +1,5 @@
 FROM centos:centos6
-MAINTAINER enova
+MAINTAINER Nicolas SERY
 
 # Mise a jour de centOS
 RUN yum -y update
